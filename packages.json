@@ -1,0 +1,23 @@
+[
+  {
+    "name": "height",
+    "version": "0.21.0",
+    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.21.0-universal.dmg",
+    "source_root": "Height.app",
+    "sha256": "f6e3b4e219bd3d924d17adab65c30cd19366c35855e191888573060d51c5178d"
+  },
+  {
+    "name": "craft",
+    "version": "2.5.17",
+    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
+    "source_root": "Craft.app",
+    "sha256": "e7cf15c28b1cf5f9c375ee4e7152507bef7ffc93eb5647e6024a5dc99287e2f2"
+  },
+  {
+    "name": "firefox",
+    "version": "118.0.1",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.1/mac/en-US/Firefox%20118.0.1.dmg",
+    "source_root": "Firefox.app",
+    "sha256": "98471851ece004dc0cf79ddb6936b86ca112bbde3b4b839961acf11b3b2e4de9"
+  }
+]
