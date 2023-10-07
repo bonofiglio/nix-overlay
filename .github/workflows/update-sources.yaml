@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Run update
         run: |
@@ -19,8 +19,8 @@ jobs:
           ./update.sh
 
       - name: Commit changes
-        uses: EndBug/add-and-commit@v7.5.0
-        with:
-          default_author: github_actions
-          message: "Update sources"
-          add: 'sources.json'
+        run: |
+          git config --global user.name 'Daniel Bonofiglio'
+          git config --global user.email 'dev@dan.uy'
+          git commit -am "update sources $(date -I)"
+          git push
