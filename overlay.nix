@@ -51,5 +51,6 @@ let
     };
 
     arrayToObject = inputArray: builtins.foldl' (acc: elem: acc // { "${elem.pname}" = elem; }) {} inputArray;
+    packages = arrayToObject (map (x: dmgPackage x.name x.version x.url x.sha256 x.source_root) sources);
 in
-arrayToObject (map (x: dmgPackage x.name x.version x.url x.sha256 x.source_root) sources)
+packages
