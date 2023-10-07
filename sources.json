@@ -7,6 +7,13 @@
     "sha256": "e7cf15c28b1cf5f9c375ee4e7152507bef7ffc93eb5647e6024a5dc99287e2f2"
   },
   {
+    "name": "blender",
+    "version": "3.6.4",
+    "url": "https://download.blender.org/release/Blender3.6/blender-3.6.4-macos-x64.dmg",
+    "source_root": "Blender.app",
+    "sha256": "4c500c358e068961c5cc04816f7a68dd3f2d283eed4f22e4812f570462199ef1"
+  },
+  {
     "name": "firefox",
     "version": "118.0.1",
     "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/118.0.1/mac/en-US/Firefox%20118.0.1.dmg",
@@ -14,10 +21,31 @@
     "sha256": "98471851ece004dc0cf79ddb6936b86ca112bbde3b4b839961acf11b3b2e4de9"
   },
   {
+    "name": "vlc",
+    "version": "3.0.18",
+    "url": "https://get.videolan.org/vlc/3.0.18/macosx/vlc-3.0.18-intel64.dmg",
+    "source_root": "VLC.app",
+    "sha256": "88edcdfceb3bd2f680367d9009d38a0c147fa758f2dd395e43412c1e08ce1ccb"
+  },
+  {
     "name": "height",
     "version": "0.21.0",
     "url": "https://storage.googleapis.com/height-statics/_app/Height-0.21.0-universal.dmg",
     "source_root": "Height.app",
     "sha256": "f6e3b4e219bd3d924d17adab65c30cd19366c35855e191888573060d51c5178d"
+  },
+  {
+    "name": "ungoogled-chromium",
+    "version": "117.0.5938.62-1.1,1694986322",
+    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/117.0.5938.62-1.1_x86-64__1694986322/ungoogled-chromium_117.0.5938.62-1.1_x86-64-macos.dmg",
+    "source_root": "Chromium.app",
+    "sha256": "d0e4fc0fa50ff5c91d460317e1959f8053d2884dc676e9dbca971204d16c5090"
+  },
+  {
+    "name": "arc",
+    "version": "1.11.0,42160",
+    "url": "https://releases.arc.net/release/Arc-1.11.0-42160.zip",
+    "source_root": "Arc.app",
+    "sha256": "b1fe791ee9c6bd152abdc7edc380e57dd10db463f386da211f0f520c7bbd1da0"
   }
 ]
