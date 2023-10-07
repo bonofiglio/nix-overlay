@@ -42,6 +42,10 @@ touch sources.json
 generate_json_from_cask "firefox" "https://formulae.brew.sh/api/cask/firefox.json" &
 generate_json_from_cask "craft" "https://formulae.brew.sh/api/cask/craft.json" "true" &
 generate_json_from_cask "height" "https://formulae.brew.sh/api/cask/height.json" &
+generate_json_from_cask "ungoogled-chromium" "https://formulae.brew.sh/api/cask/eloston-chromium.json" &
+generate_json_from_cask "vlc" "https://formulae.brew.sh/api/cask/vlc.json" &
+generate_json_from_cask "arc" "https://formulae.brew.sh/api/cask/arc.json" &
+generate_json_from_cask "blender" "https://formulae.brew.sh/api/cask/blender.json" &
 
 wait
 
