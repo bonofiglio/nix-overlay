@@ -1,3 +1,5 @@
+latest_mac_version="arm64_sonoma"
+
 # $1: dmg_url -> string
 function calculate_sha256() {
     curl -s $1 | shasum -a 256 | head -c 64
@@ -25,6 +27,18 @@ function generate_json_from_cask() {
         sha256="$(calculate_sha256 $url)"
     else
         sha256="$(echo $json | jq -r ".sha256")"
+    fi
+
+    # Check if there is a specific arm64 version
+    local mac_version_variation="$(echo $json | jq -r ".variations.$latest_mac_version")"
+    if [ "$mac_version_variation" != null ]; then
+        url="$(echo $mac_version_variation | jq -r ".url")"
+
+        if [ "$3" == "true" ]; then
+            sha256="$(calculate_sha256 $url)"
+        else
+            sha256="$(echo $mac_version_variation | jq -r ".sha256")"
+        fi
     fi
 
 	jq -n \
