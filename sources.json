@@ -35,6 +35,13 @@
     "sha256": "f6e3b4e219bd3d924d17adab65c30cd19366c35855e191888573060d51c5178d"
   },
   {
+    "name": "openemu",
+    "version": "2.3.3",
+    "url": "https://github.com/OpenEmu/OpenEmu/releases/download/v2.3.3/OpenEmu_2.3.3.zip",
+    "source_root": "OpenEmu.app",
+    "sha256": "a732c538287c99774ce939f840952d6713ac204e2a81baa760b1d4ef9cca1a73"
+  },
+  {
     "name": "ungoogled-chromium",
     "version": "117.0.5938.62-1.1,1694986322",
     "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/117.0.5938.62-1.1_arm64__1695024143/ungoogled-chromium_117.0.5938.62-1.1_arm64-macos.dmg",
