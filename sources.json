@@ -22,10 +22,10 @@
   },
   {
     "name": "vlc",
-    "version": "3.0.18",
-    "url": "https://get.videolan.org/vlc/3.0.18/macosx/vlc-3.0.18-intel64.dmg",
+    "version": "3.0.19",
+    "url": "https://get.videolan.org/vlc/3.0.19/macosx/vlc-3.0.19-arm64.dmg",
     "source_root": "VLC.app",
-    "sha256": "88edcdfceb3bd2f680367d9009d38a0c147fa758f2dd395e43412c1e08ce1ccb"
+    "sha256": "58458840edf898971a74018f3807557e4016f30df44e13c5fe0a1fb899722099"
   },
   {
     "name": "height",
@@ -50,9 +50,9 @@
   },
   {
     "name": "arc",
-    "version": "1.11.0,42160",
-    "url": "https://releases.arc.net/release/Arc-1.11.0-42160.zip",
+    "version": "1.12.0,42317",
+    "url": "https://releases.arc.net/release/Arc-1.12.0-42317.zip",
     "source_root": "Arc.app",
-    "sha256": "b1fe791ee9c6bd152abdc7edc380e57dd10db463f386da211f0f520c7bbd1da0"
+    "sha256": "dcd3088f0e1d3388f6ee4b5e3c47ba071d450851e7fac05eb3d6cbb95ed16529"
   }
 ]
