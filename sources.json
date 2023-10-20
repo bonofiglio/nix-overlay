@@ -8,10 +8,10 @@
   },
   {
     "name": "arc",
-    "version": "1.12.1,42373",
-    "url": "https://releases.arc.net/release/Arc-1.12.1-42373.zip",
+    "version": "1.13.1,42579",
+    "url": "https://releases.arc.net/release/Arc-1.13.1-42579.zip",
     "source_root": "Arc.app",
-    "sha256": "325e0c68c5c4f8e90c9bf48c2bd5c3c91d2c71c16a296599a03da914cde14264"
+    "sha256": "4c744e139043dbd353897f30e1ecc55a0e4d3213c84cf3c10c9b21329ca8b8ea"
   },
   {
     "name": "height",
@@ -36,17 +36,17 @@
   },
   {
     "name": "blender",
-    "version": "3.6.4",
-    "url": "https://download.blender.org/release/Blender3.6/blender-3.6.4-macos-x64.dmg",
+    "version": "3.6.5",
+    "url": "https://download.blender.org/release/Blender3.6/blender-3.6.5-macos-arm64.dmg",
     "source_root": "Blender.app",
-    "sha256": "4c500c358e068961c5cc04816f7a68dd3f2d283eed4f22e4812f570462199ef1"
+    "sha256": "3035664e0b23c39d28c76f8eea98c81b121bf26f3e7a517a98233a97a5246d3f"
   },
   {
     "name": "craft",
-    "version": "2.5.17",
+    "version": "2.5.18",
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
     "source_root": "Craft.app",
-    "sha256": "e7cf15c28b1cf5f9c375ee4e7152507bef7ffc93eb5647e6024a5dc99287e2f2"
+    "sha256": "a8f2884ab3615214ca0caa3550e26285e0aa5521684b2d0a2f78d1e0e970e42b"
   },
   {
     "name": "ungoogled-chromium",
