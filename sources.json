@@ -1,5 +1,26 @@
 [
   {
+    "name": "height",
+    "version": "0.21.0",
+    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.21.0-universal.dmg",
+    "source_root": "Height.app",
+    "sha256": "f6e3b4e219bd3d924d17adab65c30cd19366c35855e191888573060d51c5178d"
+  },
+  {
+    "name": "craft",
+    "version": "2.5.18",
+    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
+    "source_root": "Craft.app",
+    "sha256": "a8f2884ab3615214ca0caa3550e26285e0aa5521684b2d0a2f78d1e0e970e42b"
+  },
+  {
+    "name": "firefox",
+    "version": "119.0",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/mac/en-US/Firefox%20119.0.dmg",
+    "source_root": "Firefox.app",
+    "sha256": "9ea862f623fb3ffbdc6af5cbab34aa7a57aff0c7b13789ccca03ceb73ccae2e9"
+  },
+  {
     "name": "vlc",
     "version": "3.0.19",
     "url": "https://get.videolan.org/vlc/3.0.19/macosx/vlc-3.0.19-arm64.dmg",
@@ -14,27 +35,6 @@
     "sha256": "4c744e139043dbd353897f30e1ecc55a0e4d3213c84cf3c10c9b21329ca8b8ea"
   },
   {
-    "name": "height",
-    "version": "0.21.0",
-    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.21.0-universal.dmg",
-    "source_root": "Height.app",
-    "sha256": "f6e3b4e219bd3d924d17adab65c30cd19366c35855e191888573060d51c5178d"
-  },
-  {
-    "name": "firefox",
-    "version": "119.0",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0/mac/en-US/Firefox%20119.0.dmg",
-    "source_root": "Firefox.app",
-    "sha256": "9ea862f623fb3ffbdc6af5cbab34aa7a57aff0c7b13789ccca03ceb73ccae2e9"
-  },
-  {
-    "name": "openemu",
-    "version": "2.3.3",
-    "url": "https://github.com/OpenEmu/OpenEmu/releases/download/v2.3.3/OpenEmu_2.3.3.zip",
-    "source_root": "OpenEmu.app",
-    "sha256": "a732c538287c99774ce939f840952d6713ac204e2a81baa760b1d4ef9cca1a73"
-  },
-  {
     "name": "blender",
     "version": "3.6.5",
     "url": "https://download.blender.org/release/Blender3.6/blender-3.6.5-macos-arm64.dmg",
@@ -42,17 +42,17 @@
     "sha256": "3035664e0b23c39d28c76f8eea98c81b121bf26f3e7a517a98233a97a5246d3f"
   },
   {
-    "name": "craft",
-    "version": "2.5.18",
-    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
-    "source_root": "Craft.app",
-    "sha256": "a8f2884ab3615214ca0caa3550e26285e0aa5521684b2d0a2f78d1e0e970e42b"
-  },
-  {
     "name": "ungoogled-chromium",
     "version": "118.0.5993.88-1.1,1697812767",
     "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/117.0.5938.62-1.1_arm64__1695024143/ungoogled-chromium_117.0.5938.62-1.1_arm64-macos.dmg",
     "source_root": "Chromium.app",
     "sha256": "0d171c1fa5920397e4a49557c0d041715d5fda112dd4dbc97f75b137abe1888e"
+  },
+  {
+    "name": "openemu",
+    "version": "2.3.3",
+    "url": "https://github.com/OpenEmu/OpenEmu/releases/download/v2.3.3/OpenEmu_2.3.3.zip",
+    "source_root": "OpenEmu.app",
+    "sha256": "a732c538287c99774ce939f840952d6713ac204e2a81baa760b1d4ef9cca1a73"
   }
 ]
