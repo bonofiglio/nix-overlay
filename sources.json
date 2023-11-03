@@ -7,11 +7,18 @@
     "sha256": "f6e3b4e219bd3d924d17adab65c30cd19366c35855e191888573060d51c5178d"
   },
   {
-    "name": "craft",
-    "version": "2.5.18",
-    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
-    "source_root": "Craft.app",
-    "sha256": "a8f2884ab3615214ca0caa3550e26285e0aa5521684b2d0a2f78d1e0e970e42b"
+    "name": "openemu",
+    "version": "2.3.3",
+    "url": "https://github.com/OpenEmu/OpenEmu/releases/download/v2.3.3/OpenEmu_2.3.3.zip",
+    "source_root": "OpenEmu.app",
+    "sha256": "a732c538287c99774ce939f840952d6713ac204e2a81baa760b1d4ef9cca1a73"
+  },
+  {
+    "name": "blender",
+    "version": "3.6.5",
+    "url": "https://download.blender.org/release/Blender3.6/blender-3.6.5-macos-arm64.dmg",
+    "source_root": "Blender.app",
+    "sha256": "3035664e0b23c39d28c76f8eea98c81b121bf26f3e7a517a98233a97a5246d3f"
   },
   {
     "name": "firefox",
@@ -22,37 +29,30 @@
   },
   {
     "name": "vlc",
-    "version": "3.0.19",
-    "url": "https://get.videolan.org/vlc/3.0.19/macosx/vlc-3.0.19-arm64.dmg",
+    "version": "3.0.20",
+    "url": "https://get.videolan.org/vlc/3.0.20/macosx/vlc-3.0.20-arm64.dmg",
     "source_root": "VLC.app",
-    "sha256": "58458840edf898971a74018f3807557e4016f30df44e13c5fe0a1fb899722099"
+    "sha256": "5d5f0ee52d81982a622f4021928a64b4705a9554499e20c33d0bac22590b118e"
   },
   {
     "name": "arc",
-    "version": "1.14.0,42789",
-    "url": "https://releases.arc.net/release/Arc-1.14.0-42789.zip",
+    "version": "1.15.0,42993",
+    "url": "https://releases.arc.net/release/Arc-1.15.0-42993.zip",
     "source_root": "Arc.app",
-    "sha256": "68b7d02b2513ddeb00befebe0f10b70ee497e0f4fc33326952ffa253c8619248"
+    "sha256": "07159421a132763d1c540cc9c9b45d8b7f832a8dc8fe00da73873fab86d7cc74"
   },
   {
-    "name": "blender",
-    "version": "3.6.5",
-    "url": "https://download.blender.org/release/Blender3.6/blender-3.6.5-macos-arm64.dmg",
-    "source_root": "Blender.app",
-    "sha256": "3035664e0b23c39d28c76f8eea98c81b121bf26f3e7a517a98233a97a5246d3f"
+    "name": "craft",
+    "version": "2.5.18",
+    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
+    "source_root": "Craft.app",
+    "sha256": "a8f2884ab3615214ca0caa3550e26285e0aa5521684b2d0a2f78d1e0e970e42b"
   },
   {
     "name": "ungoogled-chromium",
-    "version": "118.0.5993.88-1.1,1697812767",
-    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/117.0.5938.62-1.1_arm64__1695024143/ungoogled-chromium_117.0.5938.62-1.1_arm64-macos.dmg",
+    "version": "118.0.5993.117-1.1,1698883432",
+    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/118.0.5993.117-1.1_arm64__1698927545/ungoogled-chromium_118.0.5993.117-1.1_arm64-macos.dmg",
     "source_root": "Chromium.app",
-    "sha256": "0d171c1fa5920397e4a49557c0d041715d5fda112dd4dbc97f75b137abe1888e"
-  },
-  {
-    "name": "openemu",
-    "version": "2.3.3",
-    "url": "https://github.com/OpenEmu/OpenEmu/releases/download/v2.3.3/OpenEmu_2.3.3.zip",
-    "source_root": "OpenEmu.app",
-    "sha256": "a732c538287c99774ce939f840952d6713ac204e2a81baa760b1d4ef9cca1a73"
+    "sha256": "defbdb16ece48263ffba286d9337c2b1db96aa788129f37d469a0cd1e3b156c3"
   }
 ]
