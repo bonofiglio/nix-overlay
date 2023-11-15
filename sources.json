@@ -15,10 +15,10 @@
   },
   {
     "name": "blender",
-    "version": "3.6.5",
-    "url": "https://download.blender.org/release/Blender3.6/blender-3.6.5-macos-arm64.dmg",
+    "version": "4.0.0",
+    "url": "https://download.blender.org/release/Blender4.0/blender-4.0.0-macos-arm64.dmg",
     "source_root": "Blender.app",
-    "sha256": "3035664e0b23c39d28c76f8eea98c81b121bf26f3e7a517a98233a97a5246d3f"
+    "sha256": "9fe7cf7d8efe707677569c5837787da5860b16535fb81bc2cba44519c490b858"
   },
   {
     "name": "firefox",
