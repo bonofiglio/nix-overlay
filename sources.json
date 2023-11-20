@@ -1,26 +1,5 @@
 [
   {
-    "name": "height",
-    "version": "0.21.0",
-    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.21.0-universal.dmg",
-    "source_root": "Height.app",
-    "sha256": "f6e3b4e219bd3d924d17adab65c30cd19366c35855e191888573060d51c5178d"
-  },
-  {
-    "name": "openemu",
-    "version": "2.3.3",
-    "url": "https://github.com/OpenEmu/OpenEmu/releases/download/v2.3.3/OpenEmu_2.3.3.zip",
-    "source_root": "OpenEmu.app",
-    "sha256": "a732c538287c99774ce939f840952d6713ac204e2a81baa760b1d4ef9cca1a73"
-  },
-  {
-    "name": "blender",
-    "version": "4.0.1",
-    "url": "https://download.blender.org/release/Blender4.0/blender-4.0.1-macos-arm64.dmg",
-    "source_root": "Blender.app",
-    "sha256": "5123a248a13459dbf0fa6762a4a4079d437467537e44b2a17db6c94fc071af95"
-  },
-  {
     "name": "firefox",
     "version": "119.0.1",
     "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/119.0.1/mac/en-US/Firefox%20119.0.1.dmg",
@@ -28,11 +7,11 @@
     "sha256": "e8aaf761df3a59e29bceb0a3331b097ba9a72a300d5dee677d11b908c8487701"
   },
   {
-    "name": "vlc",
-    "version": "3.0.20",
-    "url": "https://get.videolan.org/vlc/3.0.20/macosx/vlc-3.0.20-arm64.dmg",
-    "source_root": "VLC.app",
-    "sha256": "5d5f0ee52d81982a622f4021928a64b4705a9554499e20c33d0bac22590b118e"
+    "name": "ungoogled-chromium",
+    "version": "118.0.5993.117-1.1,1698883432",
+    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/118.0.5993.117-1.1_arm64__1698927545/ungoogled-chromium_118.0.5993.117-1.1_arm64-macos.dmg",
+    "source_root": "Chromium.app",
+    "sha256": "defbdb16ece48263ffba286d9337c2b1db96aa788129f37d469a0cd1e3b156c3"
   },
   {
     "name": "arc",
@@ -42,6 +21,20 @@
     "sha256": "6368f3ab273a73981c6467ecb9d6dbaad87896b4612572b9a6a213b8410e62e7"
   },
   {
+    "name": "blender",
+    "version": "4.0.1",
+    "url": "https://download.blender.org/release/Blender4.0/blender-4.0.1-macos-arm64.dmg",
+    "source_root": "Blender.app",
+    "sha256": "5123a248a13459dbf0fa6762a4a4079d437467537e44b2a17db6c94fc071af95"
+  },
+  {
+    "name": "openemu",
+    "version": "2.3.3",
+    "url": "https://github.com/OpenEmu/OpenEmu/releases/download/v2.3.3/OpenEmu_2.3.3.zip",
+    "source_root": "OpenEmu.app",
+    "sha256": "a732c538287c99774ce939f840952d6713ac204e2a81baa760b1d4ef9cca1a73"
+  },
+  {
     "name": "craft",
     "version": "2.5.18",
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
@@ -49,10 +42,17 @@
     "sha256": "a8f2884ab3615214ca0caa3550e26285e0aa5521684b2d0a2f78d1e0e970e42b"
   },
   {
-    "name": "ungoogled-chromium",
-    "version": "118.0.5993.117-1.1,1698883432",
-    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/118.0.5993.117-1.1_arm64__1698927545/ungoogled-chromium_118.0.5993.117-1.1_arm64-macos.dmg",
-    "source_root": "Chromium.app",
-    "sha256": "defbdb16ece48263ffba286d9337c2b1db96aa788129f37d469a0cd1e3b156c3"
+    "name": "vlc",
+    "version": "3.0.20",
+    "url": "https://get.videolan.org/vlc/3.0.20/macosx/vlc-3.0.20-arm64.dmg",
+    "source_root": "VLC.app",
+    "sha256": "5d5f0ee52d81982a622f4021928a64b4705a9554499e20c33d0bac22590b118e"
+  },
+  {
+    "name": "height",
+    "version": "0.21.0",
+    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.21.0-universal.dmg",
+    "source_root": "Height.app",
+    "sha256": "f6e3b4e219bd3d924d17adab65c30cd19366c35855e191888573060d51c5178d"
   }
 ]
