@@ -36,10 +36,10 @@
   },
   {
     "name": "craft",
-    "version": "2.5.18",
+    "version": "2.6.0",
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
     "source_root": "Craft.app",
-    "sha256": "a8f2884ab3615214ca0caa3550e26285e0aa5521684b2d0a2f78d1e0e970e42b"
+    "sha256": "b521ab72d5c21d9f4b3aec461ebfa5f3185b340585ff29f66e617f8e43b82253"
   },
   {
     "name": "vlc",
