@@ -22,10 +22,10 @@
   },
   {
     "name": "blender",
-    "version": "4.0.1",
-    "url": "https://download.blender.org/release/Blender4.0/blender-4.0.1-macos-arm64.dmg",
+    "version": "4.0.2",
+    "url": "https://download.blender.org/release/Blender4.0/blender-4.0.2-macos-arm64.dmg",
     "source_root": "Blender.app",
-    "sha256": "5123a248a13459dbf0fa6762a4a4079d437467537e44b2a17db6c94fc071af95"
+    "sha256": "3debdaeb04fbaa13480c66889bef0c009aa563bb5fca42cdf4484f91195671d2"
   },
   {
     "name": "openemu",
