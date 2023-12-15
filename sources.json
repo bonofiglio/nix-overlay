@@ -1,45 +1,17 @@
 [
   {
+    "name": "arc",
+    "version": "1.21.0,44274",
+    "url": "https://releases.arc.net/release/Arc-1.21.0-44274.zip",
+    "source_root": "Arc.app",
+    "sha256": "5d9308cc56f72da3aab562424706bea5afa9ce923f5f595b8478d03b4015b808"
+  },
+  {
     "name": "ungoogled-chromium",
-    "version": "119.0.6045.199-1.1,1701661751",
+    "version": "120.0.6099.71-1.1,1702569961",
     "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/119.0.6045.199-1.1_arm64__1701702395/ungoogled-chromium_119.0.6045.199-1.1_arm64-macos.dmg",
     "source_root": "Chromium.app",
     "sha256": "6d8bb8a85472fdf385ad4cb4bc277c8ff9ef3b646a0aa66ab31554889a3da235"
-  },
-  {
-    "name": "height",
-    "version": "0.21.0",
-    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.21.0-universal.dmg",
-    "source_root": "Height.app",
-    "sha256": "f6e3b4e219bd3d924d17adab65c30cd19366c35855e191888573060d51c5178d"
-  },
-  {
-    "name": "arc",
-    "version": "1.20.1,43987",
-    "url": "https://releases.arc.net/release/Arc-1.20.1-43987.zip",
-    "source_root": "Arc.app",
-    "sha256": "41a59981981ef9f19a1a72e181b5bde9dac2d8d38d667226f01ea922baf18be1"
-  },
-  {
-    "name": "vlc",
-    "version": "3.0.20",
-    "url": "https://get.videolan.org/vlc/3.0.20/macosx/vlc-3.0.20-arm64.dmg",
-    "source_root": "VLC.app",
-    "sha256": "5d5f0ee52d81982a622f4021928a64b4705a9554499e20c33d0bac22590b118e"
-  },
-  {
-    "name": "craft",
-    "version": "2.6.0",
-    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
-    "source_root": "Craft.app",
-    "sha256": "b521ab72d5c21d9f4b3aec461ebfa5f3185b340585ff29f66e617f8e43b82253"
-  },
-  {
-    "name": "blender",
-    "version": "4.0.2",
-    "url": "https://download.blender.org/release/Blender4.0/blender-4.0.2-macos-arm64.dmg",
-    "source_root": "Blender.app",
-    "sha256": "3debdaeb04fbaa13480c66889bef0c009aa563bb5fca42cdf4484f91195671d2"
   },
   {
     "name": "firefox",
@@ -54,5 +26,33 @@
     "url": "https://github.com/OpenEmu/OpenEmu/releases/download/v2.3.3/OpenEmu_2.3.3.zip",
     "source_root": "OpenEmu.app",
     "sha256": "a732c538287c99774ce939f840952d6713ac204e2a81baa760b1d4ef9cca1a73"
+  },
+  {
+    "name": "blender",
+    "version": "4.0.2",
+    "url": "https://download.blender.org/release/Blender4.0/blender-4.0.2-macos-arm64.dmg",
+    "source_root": "Blender.app",
+    "sha256": "3debdaeb04fbaa13480c66889bef0c009aa563bb5fca42cdf4484f91195671d2"
+  },
+  {
+    "name": "height",
+    "version": "0.21.0",
+    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.21.0-universal.dmg",
+    "source_root": "Height.app",
+    "sha256": "f6e3b4e219bd3d924d17adab65c30cd19366c35855e191888573060d51c5178d"
+  },
+  {
+    "name": "vlc",
+    "version": "3.0.20",
+    "url": "https://get.videolan.org/vlc/3.0.20/macosx/vlc-3.0.20-arm64.dmg",
+    "source_root": "VLC.app",
+    "sha256": "5d5f0ee52d81982a622f4021928a64b4705a9554499e20c33d0bac22590b118e"
+  },
+  {
+    "name": "craft",
+    "version": "2.6.0",
+    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
+    "source_root": "Craft.app",
+    "sha256": "b521ab72d5c21d9f4b3aec461ebfa5f3185b340585ff29f66e617f8e43b82253"
   }
 ]
