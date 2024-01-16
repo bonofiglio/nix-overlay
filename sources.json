@@ -57,9 +57,9 @@
   },
   {
     "name": "craft",
-    "version": "2.6.0",
+    "version": "2.6.1",
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
     "source_root": "Craft.app",
-    "sha256": "b521ab72d5c21d9f4b3aec461ebfa5f3185b340585ff29f66e617f8e43b82253"
+    "sha256": "4212ad4e8e7f2b8c612b7cd93b215c8d2f48a0b145455d9b7172889ae5e32b1c"
   }
 ]
