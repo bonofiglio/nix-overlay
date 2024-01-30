@@ -8,10 +8,10 @@
   },
   {
     "name": "ungoogled-chromium",
-    "version": "120.0.6099.129-1.1,1704447342",
-    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/120.0.6099.129-1.1_arm64__1704473311/ungoogled-chromium_120.0.6099.129-1.1_arm64-macos.dmg",
+    "version": "121.0.6167.85-1.1,1706477461",
+    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/121.0.6167.85-1.1__1706477461/ungoogled-chromium_121.0.6167.85-1.1_arm64-macos.dmg",
     "source_root": "Chromium.app",
-    "sha256": "4b0e003e08dabadc498d8cf07f7cfbaea282ae3eeb30773080ce503c206b2ec1"
+    "sha256": "15a3ca0adf87c74343322a6f8220f16282b0df80358c42ec7f0e982e1344759a"
   },
   {
     "name": "arc",
