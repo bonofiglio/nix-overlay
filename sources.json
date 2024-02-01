@@ -1,10 +1,10 @@
 [
   {
-    "name": "blender",
-    "version": "4.0.2",
-    "url": "https://download.blender.org/release/Blender4.0/blender-4.0.2-macos-arm64.dmg",
-    "source_root": "Blender.app",
-    "sha256": "3debdaeb04fbaa13480c66889bef0c009aa563bb5fca42cdf4484f91195671d2"
+    "name": "craft",
+    "version": "2.6.2",
+    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
+    "source_root": "Craft.app",
+    "sha256": "5295177bc7564e96eae3e2933502e92220557443e647a2be791c10d92e56e7fd"
   },
   {
     "name": "ungoogled-chromium",
@@ -14,18 +14,18 @@
     "sha256": "15a3ca0adf87c74343322a6f8220f16282b0df80358c42ec7f0e982e1344759a"
   },
   {
-    "name": "arc",
-    "version": "1.27.3,45706",
-    "url": "https://releases.arc.net/release/Arc-1.27.3-45706.zip",
-    "source_root": "Arc.app",
-    "sha256": "02985b02301696faaf5ef6fcb77b55227162c1646bc3097a8aa081892d84eca9"
-  },
-  {
     "name": "google-chrome",
     "version": "121.0.6167.139",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
     "sha256": "88fcb89eefbed084d4f54a8beeecf05d61b3eb628f695307328e1be5b405c83f"
+  },
+  {
+    "name": "blender",
+    "version": "4.0.2",
+    "url": "https://download.blender.org/release/Blender4.0/blender-4.0.2-macos-arm64.dmg",
+    "source_root": "Blender.app",
+    "sha256": "3debdaeb04fbaa13480c66889bef0c009aa563bb5fca42cdf4484f91195671d2"
   },
   {
     "name": "vlc",
@@ -42,18 +42,18 @@
     "sha256": "ccd68fe5388b044062410ce71885911f618fd4222cd617e429eb8ab0b68795d4"
   },
   {
-    "name": "craft",
-    "version": "2.6.2",
-    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
-    "source_root": "Craft.app",
-    "sha256": "5295177bc7564e96eae3e2933502e92220557443e647a2be791c10d92e56e7fd"
-  },
-  {
     "name": "openemu",
     "version": "2.4.1",
     "url": "https://github.com/OpenEmu/OpenEmu/releases/download/v2.4.1/OpenEmu_2.4.1.zip",
     "source_root": "OpenEmu.app",
     "sha256": "521ca1305c012d38f6f907f50399fefbf4e45a9bb8d9d4063157ffca78b217d4"
+  },
+  {
+    "name": "arc",
+    "version": "1.27.3,45706",
+    "url": "https://releases.arc.net/release/Arc-1.27.3-45706.zip",
+    "source_root": "Arc.app",
+    "sha256": "02985b02301696faaf5ef6fcb77b55227162c1646bc3097a8aa081892d84eca9"
   },
   {
     "name": "height",
