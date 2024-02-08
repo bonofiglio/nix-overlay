@@ -1,12 +1,5 @@
 [
   {
-    "name": "craft",
-    "version": "2.6.2",
-    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
-    "source_root": "Craft.app",
-    "sha256": "5295177bc7564e96eae3e2933502e92220557443e647a2be791c10d92e56e7fd"
-  },
-  {
     "name": "ungoogled-chromium",
     "version": "121.0.6167.139-1.1",
     "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/121.0.6167.139-1.1/ungoogled-chromium_121.0.6167.139-1.1_arm64-macos.dmg",
@@ -14,18 +7,25 @@
     "sha256": "ddbd49796596ae617880405464c0165a96504308a1c7af956d79d4692882fb3d"
   },
   {
-    "name": "google-chrome",
-    "version": "121.0.6167.139",
-    "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
-    "source_root": "Google Chrome.app",
-    "sha256": "88fcb89eefbed084d4f54a8beeecf05d61b3eb628f695307328e1be5b405c83f"
+    "name": "craft",
+    "version": "2.6.2",
+    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
+    "source_root": "Craft.app",
+    "sha256": "5295177bc7564e96eae3e2933502e92220557443e647a2be791c10d92e56e7fd"
   },
   {
-    "name": "blender",
-    "version": "4.0.2",
-    "url": "https://download.blender.org/release/Blender4.0/blender-4.0.2-macos-arm64.dmg",
-    "source_root": "Blender.app",
-    "sha256": "3debdaeb04fbaa13480c66889bef0c009aa563bb5fca42cdf4484f91195671d2"
+    "name": "google-chrome",
+    "version": "121.0.6167.160",
+    "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
+    "source_root": "Google Chrome.app",
+    "sha256": "49ae9c8279ef2595a5103f8f7ca822fc29de62624d8fc235541d11a5eb4b6917"
+  },
+  {
+    "name": "height",
+    "version": "0.21.0",
+    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.21.0-universal.dmg",
+    "source_root": "Height.app",
+    "sha256": "f6e3b4e219bd3d924d17adab65c30cd19366c35855e191888573060d51c5178d"
   },
   {
     "name": "vlc",
@@ -35,13 +35,6 @@
     "sha256": "5d5f0ee52d81982a622f4021928a64b4705a9554499e20c33d0bac22590b118e"
   },
   {
-    "name": "firefox",
-    "version": "122.0.1",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/122.0.1/mac/en-US/Firefox%20122.0.1.dmg",
-    "source_root": "Firefox.app",
-    "sha256": "42721425ca279d48b729eab8e443ce2ad83465ada46dee367d84a103791deb2a"
-  },
-  {
     "name": "openemu",
     "version": "2.4.1",
     "url": "https://github.com/OpenEmu/OpenEmu/releases/download/v2.4.1/OpenEmu_2.4.1.zip",
@@ -49,17 +42,24 @@
     "sha256": "521ca1305c012d38f6f907f50399fefbf4e45a9bb8d9d4063157ffca78b217d4"
   },
   {
+    "name": "blender",
+    "version": "4.0.2",
+    "url": "https://download.blender.org/release/Blender4.0/blender-4.0.2-macos-arm64.dmg",
+    "source_root": "Blender.app",
+    "sha256": "3debdaeb04fbaa13480c66889bef0c009aa563bb5fca42cdf4484f91195671d2"
+  },
+  {
+    "name": "firefox",
+    "version": "122.0.1",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/122.0.1/mac/en-US/Firefox%20122.0.1.dmg",
+    "source_root": "Firefox.app",
+    "sha256": "42721425ca279d48b729eab8e443ce2ad83465ada46dee367d84a103791deb2a"
+  },
+  {
     "name": "arc",
     "version": "1.28.0,45831",
     "url": "https://releases.arc.net/release/Arc-1.28.0-45831.zip",
     "source_root": "Arc.app",
     "sha256": "cd97bbbcbb9d03c1569e1e4430f4095df252318a2ee7b90b3daa6fbf846d89bc"
-  },
-  {
-    "name": "height",
-    "version": "0.21.0",
-    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.21.0-universal.dmg",
-    "source_root": "Height.app",
-    "sha256": "f6e3b4e219bd3d924d17adab65c30cd19366c35855e191888573060d51c5178d"
   }
 ]
