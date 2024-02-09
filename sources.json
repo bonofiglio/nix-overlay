@@ -8,10 +8,10 @@
   },
   {
     "name": "craft",
-    "version": "2.6.2",
+    "version": "2.7.1",
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
     "source_root": "Craft.app",
-    "sha256": "5295177bc7564e96eae3e2933502e92220557443e647a2be791c10d92e56e7fd"
+    "sha256": "655432782fc93999898d1fea6cf3943a3a926fb44dfc26907c526ad45be9ada1"
   },
   {
     "name": "google-chrome",
@@ -57,9 +57,9 @@
   },
   {
     "name": "arc",
-    "version": "1.28.0,45831",
-    "url": "https://releases.arc.net/release/Arc-1.28.0-45831.zip",
+    "version": "1.29.0,46113",
+    "url": "https://releases.arc.net/release/Arc-1.29.0-46113.zip",
     "source_root": "Arc.app",
-    "sha256": "cd97bbbcbb9d03c1569e1e4430f4095df252318a2ee7b90b3daa6fbf846d89bc"
+    "sha256": "d4c2d97fd290a94a57a2485d38e5d4ded3ac41fa93220e9fa79c317789a4dbc1"
   }
 ]
