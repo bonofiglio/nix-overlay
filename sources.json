@@ -8,10 +8,10 @@
   },
   {
     "name": "craft",
-    "version": "2.7.2",
+    "version": "2.7.3",
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
     "source_root": "Craft.app",
-    "sha256": "691ce70ce7c0d6fd47edfe5b21e556ae63a43a1fc5c2d15d8b52ea0d13084e62"
+    "sha256": "c2290fb0dc04a1fc17bb2f7288df952922c4aec648898a3a266ad120a7ee70bf"
   },
   {
     "name": "blender",
@@ -29,10 +29,10 @@
   },
   {
     "name": "arc",
-    "version": "1.29.0,46113",
-    "url": "https://releases.arc.net/release/Arc-1.29.0-46113.zip",
+    "version": "1.30.0,46409",
+    "url": "https://releases.arc.net/release/Arc-1.30.0-46409.zip",
     "source_root": "Arc.app",
-    "sha256": "d4c2d97fd290a94a57a2485d38e5d4ded3ac41fa93220e9fa79c317789a4dbc1"
+    "sha256": "47758424d59ea99e94a1e65ff0224fe916024ef1d7e02e0f603c0d0040576ea1"
   },
   {
     "name": "firefox",
@@ -57,9 +57,9 @@
   },
   {
     "name": "ungoogled-chromium",
-    "version": "121.0.6167.160-1.1",
-    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/121.0.6167.160-1.1/ungoogled-chromium_121.0.6167.160-1.1_arm64-macos.dmg",
+    "version": "121.0.6167.184-1.1",
+    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/121.0.6167.184-1.1/ungoogled-chromium_121.0.6167.184-1.1_arm64-macos.dmg",
     "source_root": "Chromium.app",
-    "sha256": "6da1838a909c5d1736ef7d4736d738cc0ea7ca87d1c1612900f9d97704fd0a35"
+    "sha256": "6279afcf9974abf41b7cf037e06340078d319b00d6ff8ddc15040960ae013167"
   }
 ]
