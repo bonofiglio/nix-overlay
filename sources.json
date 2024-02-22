@@ -22,10 +22,10 @@
   },
   {
     "name": "height",
-    "version": "0.21.0",
-    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.21.0-universal.dmg",
+    "version": "0.24.0",
+    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.24.0-universal.dmg",
     "source_root": "Height.app",
-    "sha256": "f6e3b4e219bd3d924d17adab65c30cd19366c35855e191888573060d51c5178d"
+    "sha256": "5b298b86b95a2e84a672baab6e889c55fda6a8ab834cd2116cca7ea6b19ab024"
   },
   {
     "name": "arc",
@@ -50,10 +50,10 @@
   },
   {
     "name": "google-chrome",
-    "version": "121.0.6167.184",
+    "version": "122.0.6261.57",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "57b1a1e370dc8f10870e64453e7b2b8ad97b589dbff9b0535c0e207c2d901ffc"
+    "sha256": "d92d621f6420bb34f983f6668f5be248b82464f39b7752b61da69efd71392dab"
   },
   {
     "name": "ungoogled-chromium",
