@@ -57,9 +57,9 @@
   },
   {
     "name": "ungoogled-chromium",
-    "version": "121.0.6167.184-1.1",
-    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/121.0.6167.184-1.1/ungoogled-chromium_121.0.6167.184-1.1_arm64-macos.dmg",
+    "version": "122.0.6261.69-1.1",
+    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/122.0.6261.69-1.1/ungoogled-chromium_122.0.6261.69-1.1_arm64-macos.dmg",
     "source_root": "Chromium.app",
-    "sha256": "6279afcf9974abf41b7cf037e06340078d319b00d6ff8ddc15040960ae013167"
+    "sha256": "dd81817b112b1c56d52989e67145d6f3b4344d515e4108d289e9eb8a71102c4f"
   }
 ]
