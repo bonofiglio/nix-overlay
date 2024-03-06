@@ -62,6 +62,7 @@ generate_json_from_cask "vlc" "https://formulae.brew.sh/api/cask/vlc.json" &
 generate_json_from_cask "arc" "https://formulae.brew.sh/api/cask/arc.json" &
 generate_json_from_cask "blender" "https://formulae.brew.sh/api/cask/blender.json" &
 generate_json_from_cask "openemu" "https://formulae.brew.sh/api/cask/openemu.json" &
+generate_json_from_cask "battery" "https://formulae.brew.sh/api/cask/battery.json" &
 
 wait
 
