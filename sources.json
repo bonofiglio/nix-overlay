@@ -1,31 +1,10 @@
 [
   {
     "name": "google-chrome",
-    "version": "122.0.6261.112",
+    "version": "122.0.6261.129",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "51e59993412b69f7f1c5bf0e5373bc66c0a43d2d346fa8572ac74a5bc1ffcfa5"
-  },
-  {
-    "name": "height",
-    "version": "0.24.0",
-    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.24.0-universal.dmg",
-    "source_root": "Height.app",
-    "sha256": "5b298b86b95a2e84a672baab6e889c55fda6a8ab834cd2116cca7ea6b19ab024"
-  },
-  {
-    "name": "openemu",
-    "version": "2.4.1",
-    "url": "https://github.com/OpenEmu/OpenEmu/releases/download/v2.4.1/OpenEmu_2.4.1.zip",
-    "source_root": "OpenEmu.app",
-    "sha256": "521ca1305c012d38f6f907f50399fefbf4e45a9bb8d9d4063157ffca78b217d4"
-  },
-  {
-    "name": "craft",
-    "version": "2.7.6",
-    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
-    "source_root": "Craft.app",
-    "sha256": "84b5214b23d3fc2760b23324871c7f3afe320a8800dd79e5686d5f72f751fc35"
+    "sha256": "c5229d9c4d59f51b312f38fe1ec299af9f7840c325cf103404bfa76452801edc"
   },
   {
     "name": "blender",
@@ -35,6 +14,13 @@
     "sha256": "3debdaeb04fbaa13480c66889bef0c009aa563bb5fca42cdf4484f91195671d2"
   },
   {
+    "name": "vlc",
+    "version": "3.0.20",
+    "url": "https://get.videolan.org/vlc/3.0.20/macosx/vlc-3.0.20-arm64.dmg",
+    "source_root": "VLC.app",
+    "sha256": "5d5f0ee52d81982a622f4021928a64b4705a9554499e20c33d0bac22590b118e"
+  },
+  {
     "name": "ungoogled-chromium",
     "version": "122.0.6261.111-1.1",
     "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/122.0.6261.111-1.1/ungoogled-chromium_122.0.6261.111-1.1_arm64-macos.dmg",
@@ -42,11 +28,11 @@
     "sha256": "d82330e2527f15d035442a869b4df12c92ada6999bf2e41700e4d82676c21c76"
   },
   {
-    "name": "arc",
-    "version": "1.33.0,47142",
-    "url": "https://releases.arc.net/release/Arc-1.33.0-47142.zip",
-    "source_root": "Arc.app",
-    "sha256": "37c0538a95f65f5387d62b31656fff10cdf77e4d8cc81509d012d57db8dcc971"
+    "name": "craft",
+    "version": "2.7.6",
+    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
+    "source_root": "Craft.app",
+    "sha256": "84b5214b23d3fc2760b23324871c7f3afe320a8800dd79e5686d5f72f751fc35"
   },
   {
     "name": "battery",
@@ -56,11 +42,11 @@
     "sha256": "701884af16451ef956c9acb41e9bcb6d6eae07e6ca07840c67e56e0897b042d1"
   },
   {
-    "name": "vlc",
-    "version": "3.0.20",
-    "url": "https://get.videolan.org/vlc/3.0.20/macosx/vlc-3.0.20-arm64.dmg",
-    "source_root": "VLC.app",
-    "sha256": "5d5f0ee52d81982a622f4021928a64b4705a9554499e20c33d0bac22590b118e"
+    "name": "openemu",
+    "version": "2.4.1",
+    "url": "https://github.com/OpenEmu/OpenEmu/releases/download/v2.4.1/OpenEmu_2.4.1.zip",
+    "source_root": "OpenEmu.app",
+    "sha256": "521ca1305c012d38f6f907f50399fefbf4e45a9bb8d9d4063157ffca78b217d4"
   },
   {
     "name": "firefox",
@@ -68,5 +54,19 @@
     "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/123.0.1/mac/en-US/Firefox%20123.0.1.dmg",
     "source_root": "Firefox.app",
     "sha256": "35885bacbe7c838c8de476ced3aa2dc0f8642d613c0db5b462e919da1b6cf8c7"
+  },
+  {
+    "name": "height",
+    "version": "0.24.0",
+    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.24.0-universal.dmg",
+    "source_root": "Height.app",
+    "sha256": "5b298b86b95a2e84a672baab6e889c55fda6a8ab834cd2116cca7ea6b19ab024"
+  },
+  {
+    "name": "arc",
+    "version": "1.33.0,47142",
+    "url": "https://releases.arc.net/release/Arc-1.33.0-47142.zip",
+    "source_root": "Arc.app",
+    "sha256": "37c0538a95f65f5387d62b31656fff10cdf77e4d8cc81509d012d57db8dcc971"
   }
 ]
