@@ -1,10 +1,10 @@
 [
   {
     "name": "google-chrome",
-    "version": "122.0.6261.129",
+    "version": "123.0.6312.59",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "c5229d9c4d59f51b312f38fe1ec299af9f7840c325cf103404bfa76452801edc"
+    "sha256": "768c755cab94cc45515996cfd820bff6c00608fa6597a0e49e1a6cff74774f0e"
   },
   {
     "name": "blender",
