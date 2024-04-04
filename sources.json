@@ -1,5 +1,40 @@
 [
   {
+    "name": "height",
+    "version": "0.24.0",
+    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.24.0-universal.dmg",
+    "source_root": "Height.app",
+    "sha256": "5b298b86b95a2e84a672baab6e889c55fda6a8ab834cd2116cca7ea6b19ab024"
+  },
+  {
+    "name": "openemu",
+    "version": "2.4.1",
+    "url": "https://github.com/OpenEmu/OpenEmu/releases/download/v2.4.1/OpenEmu_2.4.1.zip",
+    "source_root": "OpenEmu.app",
+    "sha256": "521ca1305c012d38f6f907f50399fefbf4e45a9bb8d9d4063157ffca78b217d4"
+  },
+  {
+    "name": "craft",
+    "version": "2.7.7",
+    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
+    "source_root": "Craft.app",
+    "sha256": "ad246a5e4a2160f95e2cc95963af431f09e1c758494eb9b667cd95ea644015f2"
+  },
+  {
+    "name": "firefox",
+    "version": "124.0.2",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/124.0.2/mac/en-US/Firefox%20124.0.2.dmg",
+    "source_root": "Firefox.app",
+    "sha256": "f46c899369ef951716d0af68136ab1ab230ea4845a1b08db4ac71b1e5b151d36"
+  },
+  {
+    "name": "ungoogled-chromium",
+    "version": "123.0.6312.86-1.1",
+    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/123.0.6312.86-1.1/ungoogled-chromium_123.0.6312.86-1.1_arm64-macos.dmg",
+    "source_root": "Chromium.app",
+    "sha256": "502b22ad917d3f1e9741aeb7053892cffb1db1bf7b49a25d8955d22db926fbe6"
+  },
+  {
     "name": "google-chrome",
     "version": "123.0.6312.107",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
@@ -14,27 +49,6 @@
     "sha256": "277c2618298368d0a80fe4aec89af8e46c441af850a1d34528ad9f7cd6b9b615"
   },
   {
-    "name": "vlc",
-    "version": "3.0.20",
-    "url": "https://get.videolan.org/vlc/3.0.20/macosx/vlc-3.0.20-arm64.dmg",
-    "source_root": "VLC.app",
-    "sha256": "5d5f0ee52d81982a622f4021928a64b4705a9554499e20c33d0bac22590b118e"
-  },
-  {
-    "name": "ungoogled-chromium",
-    "version": "123.0.6312.86-1.1",
-    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/123.0.6312.86-1.1/ungoogled-chromium_123.0.6312.86-1.1_arm64-macos.dmg",
-    "source_root": "Chromium.app",
-    "sha256": "502b22ad917d3f1e9741aeb7053892cffb1db1bf7b49a25d8955d22db926fbe6"
-  },
-  {
-    "name": "craft",
-    "version": "2.7.7",
-    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
-    "source_root": "Craft.app",
-    "sha256": "ad246a5e4a2160f95e2cc95963af431f09e1c758494eb9b667cd95ea644015f2"
-  },
-  {
     "name": "battery",
     "version": "1.2.1",
     "url": "https://github.com/actuallymentor/battery/releases/download/v1.2.1/battery-1.2.1-mac-arm64.dmg",
@@ -42,25 +56,11 @@
     "sha256": "701884af16451ef956c9acb41e9bcb6d6eae07e6ca07840c67e56e0897b042d1"
   },
   {
-    "name": "openemu",
-    "version": "2.4.1",
-    "url": "https://github.com/OpenEmu/OpenEmu/releases/download/v2.4.1/OpenEmu_2.4.1.zip",
-    "source_root": "OpenEmu.app",
-    "sha256": "521ca1305c012d38f6f907f50399fefbf4e45a9bb8d9d4063157ffca78b217d4"
-  },
-  {
-    "name": "firefox",
-    "version": "124.0.2",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/124.0.2/mac/en-US/Firefox%20124.0.2.dmg",
-    "source_root": "Firefox.app",
-    "sha256": "f46c899369ef951716d0af68136ab1ab230ea4845a1b08db4ac71b1e5b151d36"
-  },
-  {
-    "name": "height",
-    "version": "0.24.0",
-    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.24.0-universal.dmg",
-    "source_root": "Height.app",
-    "sha256": "5b298b86b95a2e84a672baab6e889c55fda6a8ab834cd2116cca7ea6b19ab024"
+    "name": "vlc",
+    "version": "3.0.20",
+    "url": "https://get.videolan.org/vlc/3.0.20/macosx/vlc-3.0.20-arm64.dmg",
+    "source_root": "VLC.app",
+    "sha256": "5d5f0ee52d81982a622f4021928a64b4705a9554499e20c33d0bac22590b118e"
   },
   {
     "name": "arc",
