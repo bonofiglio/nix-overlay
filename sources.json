@@ -22,10 +22,10 @@
   },
   {
     "name": "arc",
-    "version": "1.38.0,48670",
-    "url": "https://releases.arc.net/release/Arc-1.38.0-48670.zip",
+    "version": "1.39.0,48951",
+    "url": "https://releases.arc.net/release/Arc-1.39.0-48951.zip",
     "source_root": "Arc.app",
-    "sha256": "8492e6ee361f9cad081b85699703a789a2696ba9b83db0f56354964cd59e0dd3"
+    "sha256": "b38c152930117628866ee3a56c89d122a64ff82973f04651fef147df9de0a163"
   },
   {
     "name": "openemu",
@@ -50,10 +50,10 @@
   },
   {
     "name": "craft",
-    "version": "2.7.9",
+    "version": "2.7.10",
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
     "source_root": "Craft.app",
-    "sha256": "1230026b2f4d5bf3b4cff777c418bda51500cdb8e4b4c525a91de221f9fa4ab3"
+    "sha256": "c3c45375d2ef51c88b1911bfc7ff2263c2454cfbca2466a71c4a21c64956954c"
   },
   {
     "name": "ungoogled-chromium",
