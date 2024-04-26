@@ -8,10 +8,10 @@
   },
   {
     "name": "google-chrome",
-    "version": "124.0.6367.80",
+    "version": "124.0.6367.93",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "8b04015de1d97fa544b4afd9557062f46191355d1bfe450bc087408932cfde28"
+    "sha256": "7f37744215c671c004eaeb4b25a1bda75070958e070aa7dd096883d58ebf24cf"
   },
   {
     "name": "blender",
@@ -22,10 +22,10 @@
   },
   {
     "name": "arc",
-    "version": "1.39.1,49071",
-    "url": "https://releases.arc.net/release/Arc-1.39.1-49071.zip",
+    "version": "1.40.0,49176",
+    "url": "https://releases.arc.net/release/Arc-1.40.0-49176.zip",
     "source_root": "Arc.app",
-    "sha256": "8553b61deaf0bc6822e80200b218508b741c73c14b66fa85093bd1f5b21f0efd"
+    "sha256": "70474e7014ecf92591e4c08ee1b218c6c94b61b1546bf51f3eafa697acc0bfb7"
   },
   {
     "name": "openemu",
@@ -64,9 +64,9 @@
   },
   {
     "name": "height",
-    "version": "0.24.0",
-    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.24.0-universal.dmg",
+    "version": "0.25.0",
+    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.25.0-universal.dmg",
     "source_root": "Height.app",
-    "sha256": "5b298b86b95a2e84a672baab6e889c55fda6a8ab834cd2116cca7ea6b19ab024"
+    "sha256": "98d1b8cbfae6773aa3b0b802c4f7a260ac1ea86eb72e1ba73d6d0fab0b6787d3"
   }
 ]
