@@ -1,10 +1,10 @@
 [
   {
     "name": "firefox",
-    "version": "125.0.3",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/125.0.3/mac/en-US/Firefox%20125.0.3.dmg",
+    "version": "126.0",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/126.0/mac/en-US/Firefox%20126.0.dmg",
     "source_root": "Firefox.app",
-    "sha256": "a9b0903aaba0f2b4b79026f2ff1ef0ee3b4628469d674318d192af604aa2b0a0"
+    "sha256": "7fdf67bd49d4e9f3a2f34aadc5d03b7d9558d153c63a4f212c08100237589685"
   },
   {
     "name": "google-chrome",
@@ -22,10 +22,10 @@
   },
   {
     "name": "arc",
-    "version": "1.42.0,49714",
-    "url": "https://releases.arc.net/release/Arc-1.42.0-49714.zip",
+    "version": "1.42.1,49918",
+    "url": "https://releases.arc.net/release/Arc-1.42.1-49918.zip",
     "source_root": "Arc.app",
-    "sha256": "91ab28bcfe045df5ea532e16dd512ca386d1d70afc8ae12e25b664ae8bb62ceb"
+    "sha256": "a93ba96a97b2b5b7a49b70a5d8315be68f2df1ebcad569a000d6e6de44a925cc"
   },
   {
     "name": "openemu",
