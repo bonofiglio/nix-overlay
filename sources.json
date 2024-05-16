@@ -1,10 +1,10 @@
 [
   {
-    "name": "firefox",
-    "version": "126.0",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/126.0/mac/en-US/Firefox%20126.0.dmg",
-    "source_root": "Firefox.app",
-    "sha256": "7fdf67bd49d4e9f3a2f34aadc5d03b7d9558d153c63a4f212c08100237589685"
+    "name": "craft",
+    "version": "2.8.0",
+    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
+    "source_root": "Craft.app",
+    "sha256": "2f9eb19aed73acb259697e84dbc703afe57ee2c65e3edf88ddf386e4f629fbfd"
   },
   {
     "name": "google-chrome",
@@ -14,11 +14,11 @@
     "sha256": "17c024932a874abfad24a9ecda91b764251352e83928b6402f11141c750a5647"
   },
   {
-    "name": "blender",
-    "version": "4.1.1",
-    "url": "https://download.blender.org/release/Blender4.1/blender-4.1.1-macos-arm64.dmg",
-    "source_root": "Blender.app",
-    "sha256": "548dcd489446c3618818d9a543644cefe0b903743c24c30221674b13f681c798"
+    "name": "firefox",
+    "version": "126.0",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/126.0/mac/en-US/Firefox%20126.0.dmg",
+    "source_root": "Firefox.app",
+    "sha256": "7fdf67bd49d4e9f3a2f34aadc5d03b7d9558d153c63a4f212c08100237589685"
   },
   {
     "name": "arc",
@@ -35,11 +35,11 @@
     "sha256": "521ca1305c012d38f6f907f50399fefbf4e45a9bb8d9d4063157ffca78b217d4"
   },
   {
-    "name": "battery",
-    "version": "1.2.1",
-    "url": "https://github.com/actuallymentor/battery/releases/download/v1.2.1/battery-1.2.1-mac-arm64.dmg",
-    "source_root": "battery.app",
-    "sha256": "701884af16451ef956c9acb41e9bcb6d6eae07e6ca07840c67e56e0897b042d1"
+    "name": "height",
+    "version": "0.26.0",
+    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.26.0-universal.dmg",
+    "source_root": "Height.app",
+    "sha256": "4581b440eaf94b7c1feb1b91ad8e29d946814de8cb21f20ce28f9fbd573619dc"
   },
   {
     "name": "vlc",
@@ -49,24 +49,24 @@
     "sha256": "5d5f0ee52d81982a622f4021928a64b4705a9554499e20c33d0bac22590b118e"
   },
   {
-    "name": "craft",
-    "version": "2.8.0",
-    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
-    "source_root": "Craft.app",
-    "sha256": "2f9eb19aed73acb259697e84dbc703afe57ee2c65e3edf88ddf386e4f629fbfd"
+    "name": "blender",
+    "version": "4.1.1",
+    "url": "https://download.blender.org/release/Blender4.1/blender-4.1.1-macos-arm64.dmg",
+    "source_root": "Blender.app",
+    "sha256": "548dcd489446c3618818d9a543644cefe0b903743c24c30221674b13f681c798"
   },
   {
     "name": "ungoogled-chromium",
-    "version": "124.0.6367.118-1.1",
-    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/124.0.6367.118-1.1/ungoogled-chromium_124.0.6367.118-1.1_arm64-macos.dmg",
+    "version": "124.0.6367.207-1.1",
+    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/124.0.6367.207-1.1/ungoogled-chromium_124.0.6367.207-1.1_arm64-macos.dmg",
     "source_root": "Chromium.app",
-    "sha256": "76fe5e83b98f41fa814127e362c6096f6c686032a61361b41bb4b871e425c96e"
+    "sha256": "d20849984c3688fb5b83c3ef10d35d1bbb35a51201da964309f9f2b9cb2e866b"
   },
   {
-    "name": "height",
-    "version": "0.26.0",
-    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.26.0-universal.dmg",
-    "source_root": "Height.app",
-    "sha256": "4581b440eaf94b7c1feb1b91ad8e29d946814de8cb21f20ce28f9fbd573619dc"
+    "name": "battery",
+    "version": "1.2.1",
+    "url": "https://github.com/actuallymentor/battery/releases/download/v1.2.1/battery-1.2.1-mac-arm64.dmg",
+    "source_root": "battery.app",
+    "sha256": "701884af16451ef956c9acb41e9bcb6d6eae07e6ca07840c67e56e0897b042d1"
   }
 ]
