@@ -1,17 +1,17 @@
 [
   {
     "name": "craft",
-    "version": "2.8.0",
+    "version": "2.8.1",
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
     "source_root": "Craft.app",
-    "sha256": "2f9eb19aed73acb259697e84dbc703afe57ee2c65e3edf88ddf386e4f629fbfd"
+    "sha256": "dc357776cba0b59d5fc776c99bb29784dfa264c5388817138cc04908de84a6e6"
   },
   {
     "name": "google-chrome",
-    "version": "125.0.6422.61",
+    "version": "125.0.6422.77",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "bccb06d0e70bfc58d141be8c9fc786c947e8ce7037a0378eea90080389aecf32"
+    "sha256": "aa6a9c817abf9390010686d996c02cab8e4cfb446dc995cb7bf009aafbf178ce"
   },
   {
     "name": "firefox",
@@ -22,10 +22,10 @@
   },
   {
     "name": "arc",
-    "version": "1.43.0,50018",
-    "url": "https://releases.arc.net/release/Arc-1.43.0-50018.zip",
+    "version": "1.43.1,50198",
+    "url": "https://releases.arc.net/release/Arc-1.43.1-50198.zip",
     "source_root": "Arc.app",
-    "sha256": "94d83c170fde9babc07fe9b9c9de21b54fe80365133d13ca8ea11f25cd16b027"
+    "sha256": "17a231655259248b2b39d63443bf33f9ef4e978e44b19966238d0736e9eeebf4"
   },
   {
     "name": "openemu",
