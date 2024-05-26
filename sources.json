@@ -22,10 +22,10 @@
   },
   {
     "name": "arc",
-    "version": "1.44.1,50317",
-    "url": "https://releases.arc.net/release/Arc-1.44.1-50317.zip",
+    "version": "1.44.2,50412",
+    "url": "https://releases.arc.net/release/Arc-1.44.2-50412.zip",
     "source_root": "Arc.app",
-    "sha256": "7eb736526de52223b585a9ca37408fc0eb3c9c9959349f815dd80044db4ebcde"
+    "sha256": "763b9168d096bbc452b5a3183d4b01f60986c7bff906b9dfb3edb2cfdb79b7ed"
   },
   {
     "name": "openemu",
