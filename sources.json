@@ -15,10 +15,10 @@
   },
   {
     "name": "firefox",
-    "version": "126.0",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/126.0/mac/en-US/Firefox%20126.0.dmg",
+    "version": "126.0.1",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/126.0.1/mac/en-US/Firefox%20126.0.1.dmg",
     "source_root": "Firefox.app",
-    "sha256": "7fdf67bd49d4e9f3a2f34aadc5d03b7d9558d153c63a4f212c08100237589685"
+    "sha256": "53f43ddaf684a52ea40695a967bd650fda5e12aa1346028fca40aac74d3e74ee"
   },
   {
     "name": "arc",
