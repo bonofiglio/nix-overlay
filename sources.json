@@ -8,10 +8,10 @@
   },
   {
     "name": "google-chrome",
-    "version": "125.0.6422.113",
+    "version": "125.0.6422.142",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "7d68c485ad4c7160d3d7773b78448c69498acb61b6db205e003f7624eedbe2e0"
+    "sha256": "f0e9730131930bcb7f75f9664c55b6894deb16065014ff71a360d80d05655057"
   },
   {
     "name": "firefox",
@@ -22,10 +22,10 @@
   },
   {
     "name": "arc",
-    "version": "1.44.2,50412",
-    "url": "https://releases.arc.net/release/Arc-1.44.2-50412.zip",
+    "version": "1.44.3,50502",
+    "url": "https://releases.arc.net/release/Arc-1.44.3-50502.zip",
     "source_root": "Arc.app",
-    "sha256": "763b9168d096bbc452b5a3183d4b01f60986c7bff906b9dfb3edb2cfdb79b7ed"
+    "sha256": "5ce3d4ad1cb03c293831ddc6b760694f9647ed4a61580105f991fd188195d3c1"
   },
   {
     "name": "openemu",
