@@ -8,17 +8,17 @@
   },
   {
     "name": "google-chrome",
-    "version": "125.0.6422.142",
+    "version": "126.0.6478.57",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "f0e9730131930bcb7f75f9664c55b6894deb16065014ff71a360d80d05655057"
+    "sha256": "b63d784f1f7bd049d1b4db4f127ad5f9209c49ea1a3d29f5a53e2b590b69dc72"
   },
   {
     "name": "firefox",
-    "version": "126.0.1",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/126.0.1/mac/en-US/Firefox%20126.0.1.dmg",
+    "version": "127.0",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/127.0/mac/en-US/Firefox%20127.0.dmg",
     "source_root": "Firefox.app",
-    "sha256": "53f43ddaf684a52ea40695a967bd650fda5e12aa1346028fca40aac74d3e74ee"
+    "sha256": "3c30cbc8ae2ad0dc44ac32a266c871bd0866ca2c2876b464c86193ae5ffe6e6d"
   },
   {
     "name": "arc",
