@@ -8,10 +8,10 @@
   },
   {
     "name": "google-chrome",
-    "version": "126.0.6478.57",
+    "version": "126.0.6478.62",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "b63d784f1f7bd049d1b4db4f127ad5f9209c49ea1a3d29f5a53e2b590b69dc72"
+    "sha256": "c973727151c89579ed90fd36d0cfe1c5afc5639548a34a6a1dfd7b448468a16b"
   },
   {
     "name": "firefox",
