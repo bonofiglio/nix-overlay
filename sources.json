@@ -56,6 +56,13 @@
     "sha256": "548dcd489446c3618818d9a543644cefe0b903743c24c30221674b13f681c798"
   },
   {
+    "name": "sshfs",
+    "version": "null",
+    "url": "null",
+    "source_root": "",
+    "sha256": "null"
+  },
+  {
     "name": "ungoogled-chromium",
     "version": "125.0.6422.141-1.1",
     "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/125.0.6422.141-1.1/ungoogled-chromium_125.0.6422.141-1.1_arm64-macos.dmg",
