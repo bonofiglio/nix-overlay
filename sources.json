@@ -1,45 +1,17 @@
 [
   {
+    "name": "firefox",
+    "version": "127.0.1",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/127.0.1/mac/en-US/Firefox%20127.0.1.dmg",
+    "source_root": "Firefox.app",
+    "sha256": "b26e36efe95b2cb0c6c01b726587183c6e6e324fd51b5a0b95c1744bf1a54c3d"
+  },
+  {
     "name": "craft",
     "version": "2.8.4",
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
     "source_root": "Craft.app",
     "sha256": "068cf56d4ba7caab39aff34f7a0c12f00a1e527e06a6602c80f9d89b50c74a62"
-  },
-  {
-    "name": "google-chrome",
-    "version": "126.0.6478.62",
-    "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
-    "source_root": "Google Chrome.app",
-    "sha256": "c973727151c89579ed90fd36d0cfe1c5afc5639548a34a6a1dfd7b448468a16b"
-  },
-  {
-    "name": "firefox",
-    "version": "127.0",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/127.0/mac/en-US/Firefox%20127.0.dmg",
-    "source_root": "Firefox.app",
-    "sha256": "3c30cbc8ae2ad0dc44ac32a266c871bd0866ca2c2876b464c86193ae5ffe6e6d"
-  },
-  {
-    "name": "arc",
-    "version": "1.47.1,50893",
-    "url": "https://releases.arc.net/release/Arc-1.47.1-50893.zip",
-    "source_root": "Arc.app",
-    "sha256": "3e4ed54e9155e4713f0ce8571caab21fad58c1fa32e82203d672697b9f7bf616"
-  },
-  {
-    "name": "openemu",
-    "version": "2.4.1",
-    "url": "https://github.com/OpenEmu/OpenEmu/releases/download/v2.4.1/OpenEmu_2.4.1.zip",
-    "source_root": "OpenEmu.app",
-    "sha256": "521ca1305c012d38f6f907f50399fefbf4e45a9bb8d9d4063157ffca78b217d4"
-  },
-  {
-    "name": "height",
-    "version": "0.26.0",
-    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.26.0-universal.dmg",
-    "source_root": "Height.app",
-    "sha256": "4581b440eaf94b7c1feb1b91ad8e29d946814de8cb21f20ce28f9fbd573619dc"
   },
   {
     "name": "vlc",
@@ -49,18 +21,25 @@
     "sha256": "15dd65bf6489da9ec6a67f5585c74c40a58993acff41a82958a916dd74178044"
   },
   {
-    "name": "blender",
-    "version": "4.1.1",
-    "url": "https://download.blender.org/release/Blender4.1/blender-4.1.1-macos-arm64.dmg",
-    "source_root": "Blender.app",
-    "sha256": "548dcd489446c3618818d9a543644cefe0b903743c24c30221674b13f681c798"
+    "name": "height",
+    "version": "0.26.0",
+    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.26.0-universal.dmg",
+    "source_root": "Height.app",
+    "sha256": "4581b440eaf94b7c1feb1b91ad8e29d946814de8cb21f20ce28f9fbd573619dc"
   },
   {
     "name": "ungoogled-chromium",
-    "version": "125.0.6422.141-1.1",
-    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/125.0.6422.141-1.1/ungoogled-chromium_125.0.6422.141-1.1_arm64-macos.dmg",
+    "version": "126.0.6478.61-1.1",
+    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/126.0.6478.61-1.1/ungoogled-chromium_126.0.6478.61-1.1_arm64-macos.dmg",
     "source_root": "Chromium.app",
-    "sha256": "1ad00e8ba8ed654e7db2d2887edcf10d0892d0cd786dc26a22035827b2e5755b"
+    "sha256": "78fec97e59d4b57a0789477ba4d07e946fb906b9de10650f8242495d109eaec1"
+  },
+  {
+    "name": "openemu",
+    "version": "2.4.1",
+    "url": "https://github.com/OpenEmu/OpenEmu/releases/download/v2.4.1/OpenEmu_2.4.1.zip",
+    "source_root": "OpenEmu.app",
+    "sha256": "521ca1305c012d38f6f907f50399fefbf4e45a9bb8d9d4063157ffca78b217d4"
   },
   {
     "name": "battery",
@@ -68,5 +47,26 @@
     "url": "https://github.com/actuallymentor/battery/releases/download/v1.2.1/battery-1.2.1-mac-arm64.dmg",
     "source_root": "battery.app",
     "sha256": "701884af16451ef956c9acb41e9bcb6d6eae07e6ca07840c67e56e0897b042d1"
+  },
+  {
+    "name": "google-chrome",
+    "version": "126.0.6478.62",
+    "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
+    "source_root": "Google Chrome.app",
+    "sha256": "c973727151c89579ed90fd36d0cfe1c5afc5639548a34a6a1dfd7b448468a16b"
+  },
+  {
+    "name": "blender",
+    "version": "4.1.1",
+    "url": "https://download.blender.org/release/Blender4.1/blender-4.1.1-macos-arm64.dmg",
+    "source_root": "Blender.app",
+    "sha256": "548dcd489446c3618818d9a543644cefe0b903743c24c30221674b13f681c798"
+  },
+  {
+    "name": "arc",
+    "version": "1.47.1,50893",
+    "url": "https://releases.arc.net/release/Arc-1.47.1-50893.zip",
+    "source_root": "Arc.app",
+    "sha256": "3e4ed54e9155e4713f0ce8571caab21fad58c1fa32e82203d672697b9f7bf616"
   }
 ]
