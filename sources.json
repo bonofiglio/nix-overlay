@@ -29,10 +29,10 @@
   },
   {
     "name": "ungoogled-chromium",
-    "version": "126.0.6478.61-1.1",
-    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/126.0.6478.61-1.1/ungoogled-chromium_126.0.6478.61-1.1_arm64-macos.dmg",
+    "version": "126.0.6478.114-1.1",
+    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/126.0.6478.114-1.1/ungoogled-chromium_126.0.6478.114-1.1_arm64-macos.dmg",
     "source_root": "Chromium.app",
-    "sha256": "78fec97e59d4b57a0789477ba4d07e946fb906b9de10650f8242495d109eaec1"
+    "sha256": "edbd2336038f16b3f21f28a6c1b4107b0303c1e5d25a3c1d2533a419619490f7"
   },
   {
     "name": "openemu",
