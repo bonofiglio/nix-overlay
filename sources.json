@@ -1,10 +1,10 @@
 [
   {
     "name": "firefox",
-    "version": "127.0.1",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/127.0.1/mac/en-US/Firefox%20127.0.1.dmg",
+    "version": "127.0.2",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/127.0.2/mac/en-US/Firefox%20127.0.2.dmg",
     "source_root": "Firefox.app",
-    "sha256": "b26e36efe95b2cb0c6c01b726587183c6e6e324fd51b5a0b95c1744bf1a54c3d"
+    "sha256": "af516f0222361a311e83de8ca9a27a99653b2c0a00a6653e25ab59046a44d128"
   },
   {
     "name": "craft",
@@ -50,10 +50,10 @@
   },
   {
     "name": "google-chrome",
-    "version": "126.0.6478.115",
+    "version": "126.0.6478.127",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "e0630973d7f61e0e13a12ca1abd19e51aff62556f77db055b5f70fedb0524b8b"
+    "sha256": "d2eaf9c050c917a844f56c28197eeb84cb917f2217d64df0e78b17ae0d5ecc88"
   },
   {
     "name": "blender",
