@@ -43,10 +43,10 @@
   },
   {
     "name": "battery",
-    "version": "1.2.1",
-    "url": "https://github.com/actuallymentor/battery/releases/download/v1.2.1/battery-1.2.1-mac-arm64.dmg",
+    "version": "1.2.2",
+    "url": "https://github.com/actuallymentor/battery/releases/download/v1.2.2/battery-1.2.2-mac-arm64.dmg",
     "source_root": "battery.app",
-    "sha256": "701884af16451ef956c9acb41e9bcb6d6eae07e6ca07840c67e56e0897b042d1"
+    "sha256": "dc0ce58181bc53bbd4f2c500162e529067bd7d234962c8c7abfd7539c6e392ad"
   },
   {
     "name": "google-chrome",
