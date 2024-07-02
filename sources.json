@@ -8,10 +8,10 @@
   },
   {
     "name": "craft",
-    "version": "2.8.4",
+    "version": "2.8.5",
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
     "source_root": "Craft.app",
-    "sha256": "068cf56d4ba7caab39aff34f7a0c12f00a1e527e06a6602c80f9d89b50c74a62"
+    "sha256": "951bab4c65bea641cfc45faba8f1b49c2e44d7a4dff3090532b2545fe461057b"
   },
   {
     "name": "vlc",
