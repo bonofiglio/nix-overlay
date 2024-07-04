@@ -64,9 +64,9 @@
   },
   {
     "name": "arc",
-    "version": "1.49.0,51346",
-    "url": "https://releases.arc.net/release/Arc-1.49.0-51346.zip",
+    "version": "1.49.1,51495",
+    "url": "https://releases.arc.net/release/Arc-1.49.1-51495.zip",
     "source_root": "Arc.app",
-    "sha256": "c46807a644840aceb004521519b09fe2abe42b579f0a9ee389cd066eb526d999"
+    "sha256": "9fcf1be4876db42939bd776d0bac87053509525ac962cf09d277d65de50f121a"
   }
 ]
