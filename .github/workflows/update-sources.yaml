@@ -21,6 +21,7 @@ jobs:
           ./update.sh
 
       - name: Commit changes
+        continue-on-error: true
         run: |
           git config --global user.name 'Daniel Bonofiglio'
           git config --global user.email 'dev@dan.uy'
