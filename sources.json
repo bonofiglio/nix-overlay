@@ -8,10 +8,10 @@
   },
   {
     "name": "blender",
-    "version": "4.1.1",
-    "url": "https://download.blender.org/release/Blender4.1/blender-4.1.1-macos-arm64.dmg",
+    "version": "4.2.0",
+    "url": "https://download.blender.org/release/Blender4.2/blender-4.2.0-macos-arm64.dmg",
     "source_root": "Blender.app",
-    "sha256": "548dcd489446c3618818d9a543644cefe0b903743c24c30221674b13f681c798"
+    "sha256": "241dbfa6dac2c3b5e15bb1c132e0fcf16f7bf6e5bf3959440b6c8052b7b26d08"
   },
   {
     "name": "firefox",
@@ -57,10 +57,10 @@
   },
   {
     "name": "google-chrome",
-    "version": "126.0.6478.127",
+    "version": "126.0.6478.183",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "d2eaf9c050c917a844f56c28197eeb84cb917f2217d64df0e78b17ae0d5ecc88"
+    "sha256": "798177b69afda95788dd77761c49d77c2a1434141ff5a54c76b42397de6cf2c9"
   },
   {
     "name": "vlc",
