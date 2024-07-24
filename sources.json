@@ -15,10 +15,10 @@
   },
   {
     "name": "firefox",
-    "version": "128.0",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/128.0/mac/en-US/Firefox%20128.0.dmg",
+    "version": "128.0.2",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/128.0.2/mac/en-US/Firefox%20128.0.2.dmg",
     "source_root": "Firefox.app",
-    "sha256": "d0341bae660b826fdf6a352355f462495b9a64a3a7b0f953ab85025d6ddbda05"
+    "sha256": "66cfc0e8880bb4730d1e15265377db7ee08d4dcb2ab46356e60f38773c310c24"
   },
   {
     "name": "arc",
@@ -36,10 +36,10 @@
   },
   {
     "name": "craft",
-    "version": "2.8.5",
+    "version": "2.8.6",
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
     "source_root": "Craft.app",
-    "sha256": "951bab4c65bea641cfc45faba8f1b49c2e44d7a4dff3090532b2545fe461057b"
+    "sha256": "ff76cfb4a56e29e8a89b233e1e136b7cfa2498b715c5021a3d52ec59b4197142"
   },
   {
     "name": "height",
@@ -57,10 +57,10 @@
   },
   {
     "name": "google-chrome",
-    "version": "126.0.6478.183",
+    "version": "127.0.6533.73",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "798177b69afda95788dd77761c49d77c2a1434141ff5a54c76b42397de6cf2c9"
+    "sha256": "8848a9ec40064dcc4cd72d5195539238d3a2d603330800c41d84c16c1cc426ed"
   },
   {
     "name": "vlc",
