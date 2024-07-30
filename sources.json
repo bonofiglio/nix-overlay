@@ -8,17 +8,17 @@
   },
   {
     "name": "arc",
-    "version": "1.53.0,52080",
-    "url": "https://releases.arc.net/release/Arc-1.53.0-52080.zip",
+    "version": "1.53.1,52180",
+    "url": "https://releases.arc.net/release/Arc-1.53.1-52180.zip",
     "source_root": "Arc.app",
-    "sha256": "8021ce90bef75327ff1041d73cb37da65db272d1449ab1e3d58c582d0e208120"
+    "sha256": "97c530633efc5938369b32b1288cb0ace9a3e136cfebccadc31281f56fcbfdca"
   },
   {
     "name": "craft",
-    "version": "2.8.6",
+    "version": "2.8.7",
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
     "source_root": "Craft.app",
-    "sha256": "ff76cfb4a56e29e8a89b233e1e136b7cfa2498b715c5021a3d52ec59b4197142"
+    "sha256": "62ab692d3fc4b3dc91eee0777917f347ff817e9711055166930472144c23287b"
   },
   {
     "name": "ungoogled-chromium",
