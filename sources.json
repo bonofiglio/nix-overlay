@@ -1,52 +1,10 @@
 [
   {
-    "name": "openemu",
-    "version": "2.4.1",
-    "url": "https://github.com/OpenEmu/OpenEmu/releases/download/v2.4.1/OpenEmu_2.4.1.zip",
-    "source_root": "OpenEmu.app",
-    "sha256": "521ca1305c012d38f6f907f50399fefbf4e45a9bb8d9d4063157ffca78b217d4"
-  },
-  {
-    "name": "arc",
-    "version": "1.53.1,52180",
-    "url": "https://releases.arc.net/release/Arc-1.53.1-52180.zip",
-    "source_root": "Arc.app",
-    "sha256": "97c530633efc5938369b32b1288cb0ace9a3e136cfebccadc31281f56fcbfdca"
-  },
-  {
-    "name": "craft",
-    "version": "2.8.7",
-    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
-    "source_root": "Craft.app",
-    "sha256": "62ab692d3fc4b3dc91eee0777917f347ff817e9711055166930472144c23287b"
-  },
-  {
     "name": "ungoogled-chromium",
     "version": "127.0.6533.72-1.1",
     "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/127.0.6533.72-1.1/ungoogled-chromium_127.0.6533.72-1.1_arm64-macos.dmg",
     "source_root": "Chromium.app",
     "sha256": "3b2403ed85ce043f527921ae1975a984c89f647d52afbf2a13172706668eb0e5"
-  },
-  {
-    "name": "battery",
-    "version": "1.2.2",
-    "url": "https://github.com/actuallymentor/battery/releases/download/v1.2.2/battery-1.2.2-mac-arm64.dmg",
-    "source_root": "battery.app",
-    "sha256": "dc0ce58181bc53bbd4f2c500162e529067bd7d234962c8c7abfd7539c6e392ad"
-  },
-  {
-    "name": "firefox",
-    "version": "128.0.3",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/128.0.3/mac/en-US/Firefox%20128.0.3.dmg",
-    "source_root": "Firefox.app",
-    "sha256": "bd9b7a006b869a29ad09948a018d9af6ae85d4da2fc663624d1436892f0d3731"
-  },
-  {
-    "name": "google-chrome",
-    "version": "127.0.6533.73",
-    "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
-    "source_root": "Google Chrome.app",
-    "sha256": "8848a9ec40064dcc4cd72d5195539238d3a2d603330800c41d84c16c1cc426ed"
   },
   {
     "name": "height",
@@ -56,6 +14,34 @@
     "sha256": "4581b440eaf94b7c1feb1b91ad8e29d946814de8cb21f20ce28f9fbd573619dc"
   },
   {
+    "name": "vlc",
+    "version": "3.0.21",
+    "url": "https://get.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-arm64.dmg",
+    "source_root": "VLC.app",
+    "sha256": "15dd65bf6489da9ec6a67f5585c74c40a58993acff41a82958a916dd74178044"
+  },
+  {
+    "name": "arc",
+    "version": "1.53.1,52180",
+    "url": "https://releases.arc.net/release/Arc-1.53.1-52180.zip",
+    "source_root": "Arc.app",
+    "sha256": "97c530633efc5938369b32b1288cb0ace9a3e136cfebccadc31281f56fcbfdca"
+  },
+  {
+    "name": "battery",
+    "version": "1.2.2",
+    "url": "https://github.com/actuallymentor/battery/releases/download/v1.2.2/battery-1.2.2-mac-arm64.dmg",
+    "source_root": "battery.app",
+    "sha256": "dc0ce58181bc53bbd4f2c500162e529067bd7d234962c8c7abfd7539c6e392ad"
+  },
+  {
+    "name": "google-chrome",
+    "version": "127.0.6533.89",
+    "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
+    "source_root": "Google Chrome.app",
+    "sha256": "7efa77e48c330ceae5cf7ee50ea432efb5069a424c426ce421f2007c4bd25c44"
+  },
+  {
     "name": "blender",
     "version": "4.2.0",
     "url": "https://download.blender.org/release/Blender4.2/blender-4.2.0-macos-arm64.dmg",
@@ -63,10 +49,24 @@
     "sha256": "241dbfa6dac2c3b5e15bb1c132e0fcf16f7bf6e5bf3959440b6c8052b7b26d08"
   },
   {
-    "name": "vlc",
-    "version": "3.0.21",
-    "url": "https://get.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-arm64.dmg",
-    "source_root": "VLC.app",
-    "sha256": "15dd65bf6489da9ec6a67f5585c74c40a58993acff41a82958a916dd74178044"
+    "name": "craft",
+    "version": "2.8.7",
+    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
+    "source_root": "Craft.app",
+    "sha256": "62ab692d3fc4b3dc91eee0777917f347ff817e9711055166930472144c23287b"
+  },
+  {
+    "name": "firefox",
+    "version": "128.0.3",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/128.0.3/mac/en-US/Firefox%20128.0.3.dmg",
+    "source_root": "Firefox.app",
+    "sha256": "bd9b7a006b869a29ad09948a018d9af6ae85d4da2fc663624d1436892f0d3731"
+  },
+  {
+    "name": "openemu",
+    "version": "2.4.1",
+    "url": "https://github.com/OpenEmu/OpenEmu/releases/download/v2.4.1/OpenEmu_2.4.1.zip",
+    "source_root": "OpenEmu.app",
+    "sha256": "521ca1305c012d38f6f907f50399fefbf4e45a9bb8d9d4063157ffca78b217d4"
   }
 ]
