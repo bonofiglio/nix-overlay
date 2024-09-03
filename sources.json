@@ -43,10 +43,10 @@
   },
   {
     "name": "google-chrome",
-    "version": "128.0.6613.114",
+    "version": "128.0.6613.120",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "3e5daf70cc3c476a220f1179b94274dc3d5c03cce0a86b76374a56adb22052c9"
+    "sha256": "457f75705c7d0ffa75098c71f065a453f7429f3bc257b8082eb41b39c23342f1"
   },
   {
     "name": "ungoogled-chromium",
