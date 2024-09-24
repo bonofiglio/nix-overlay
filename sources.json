@@ -50,10 +50,10 @@
   },
   {
     "name": "ungoogled-chromium",
-    "version": "128.0.6613.137-1.1",
-    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/128.0.6613.137-1.1/ungoogled-chromium_128.0.6613.137-1.1_arm64-macos.dmg",
+    "version": "129.0.6668.58-1.1",
+    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/129.0.6668.58-1.1/ungoogled-chromium_129.0.6668.58-1.1_arm64-macos.dmg",
     "source_root": "Chromium.app",
-    "sha256": "2a8f09d7139d9cc975c361a3a7a7d7f017315f2e91c206cd6210a51fe36e3688"
+    "sha256": "95f0e3da45855b47cd9d0bc3f75c74a3e6d87386f0c5e26c37c2dac28e18d3dd"
   },
   {
     "name": "battery",
