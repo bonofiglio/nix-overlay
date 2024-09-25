@@ -15,10 +15,10 @@
   },
   {
     "name": "blender",
-    "version": "4.2.1",
-    "url": "https://download.blender.org/release/Blender4.2/blender-4.2.1-macos-arm64.dmg",
+    "version": "4.2.2",
+    "url": "https://download.blender.org/release/Blender4.2/blender-4.2.2-macos-arm64.dmg",
     "source_root": "Blender.app",
-    "sha256": "6d97bcc4a265c16f9376be31e178ab72768c6d18f405edfeb48dbeee49d8d3e4"
+    "sha256": "8f06801af51ce135b6b396c1105ae34392da01ac0a096095c4c8be607cfa3723"
   },
   {
     "name": "vlc",
@@ -29,10 +29,10 @@
   },
   {
     "name": "arc",
-    "version": "1.61.0,53949",
-    "url": "https://releases.arc.net/release/Arc-1.61.0-53949.zip",
+    "version": "1.61.1,54104",
+    "url": "https://releases.arc.net/release/Arc-1.61.1-54104.zip",
     "source_root": "Arc.app",
-    "sha256": "7a56f16eda1e0454bc9b8da950a84be93927919d3479e778a11f3996850d5684"
+    "sha256": "14a673d112a4ce997d4491c76457fa9ef2808a3b1dba18f52c008327b87ed512"
   },
   {
     "name": "craft",
