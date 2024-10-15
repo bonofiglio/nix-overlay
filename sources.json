@@ -29,10 +29,10 @@
   },
   {
     "name": "firefox",
-    "version": "131.0.2",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/131.0.2/mac/en-US/Firefox%20131.0.2.dmg",
+    "version": "131.0.3",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/131.0.3/mac/en-US/Firefox%20131.0.3.dmg",
     "source_root": "Firefox.app",
-    "sha256": "6bde38e32903ca35a9c54e0ac9e122ec79808bace6b7bc28a3c08defb15b3126"
+    "sha256": "7a4714e20b4f2099056e4c79921291256278174273d57bff09771f98774ff513"
   },
   {
     "name": "arc",
