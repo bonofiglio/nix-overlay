@@ -1,10 +1,10 @@
 [
   {
     "name": "google-chrome",
-    "version": "129.0.6668.101",
+    "version": "130.0.6723.59",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "d7e483cb0daa78f0ec7454ea7aa34872f7b37e5429890d6d3d7def0fed399e31"
+    "sha256": "515ec5f09b3e1f4db37a544f7436a04ea8f6bf4c3a7aeb940ea744cc8b041b7f"
   },
   {
     "name": "openemu",
@@ -64,9 +64,9 @@
   },
   {
     "name": "blender",
-    "version": "4.2.2",
-    "url": "https://download.blender.org/release/Blender4.2/blender-4.2.2-macos-arm64.dmg",
+    "version": "4.2.3",
+    "url": "https://download.blender.org/release/Blender4.2/blender-4.2.3-macos-arm64.dmg",
     "source_root": "Blender.app",
-    "sha256": "8f06801af51ce135b6b396c1105ae34392da01ac0a096095c4c8be607cfa3723"
+    "sha256": "cb12963b9d9977f2c71a4b5c2b51ae65cb031484213672f2ddcf743cc72213b5"
   }
 ]
