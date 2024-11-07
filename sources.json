@@ -1,10 +1,10 @@
 [
   {
     "name": "google-chrome",
-    "version": "130.0.6723.92",
+    "version": "130.0.6723.117",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "d70040c8729e947f6ba24a1523635dd822a63ce793f137116ea9f0c094f2936c"
+    "sha256": "f73da7cead0e1873c024487654968ee9f85013185fa2e84ca53b3b8ea8d3316c"
   },
   {
     "name": "openemu",
@@ -15,10 +15,10 @@
   },
   {
     "name": "ungoogled-chromium",
-    "version": "130.0.6723.69-1.1",
-    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/130.0.6723.69-1.1/ungoogled-chromium_130.0.6723.69-1.1_arm64-macos.dmg",
+    "version": "130.0.6723.91-1.1",
+    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/130.0.6723.91-1.1/ungoogled-chromium_130.0.6723.91-1.1_arm64-macos.dmg",
     "source_root": "Chromium.app",
-    "sha256": "7021f1a83b9cff3545467c92b50b92855393b95cd43b21d18362b006f64bcb37"
+    "sha256": "2ec29e225d0a07e05abdc2693641181d6150728a268cab9478233886a2b72a70"
   },
   {
     "name": "craft",
