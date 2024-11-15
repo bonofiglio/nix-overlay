@@ -36,10 +36,10 @@
   },
   {
     "name": "arc",
-    "version": "1.67.2,55679",
-    "url": "https://releases.arc.net/release/Arc-1.67.2-55679.zip",
+    "version": "1.69.0,55816",
+    "url": "https://releases.arc.net/release/Arc-1.69.0-55816.zip",
     "source_root": "Arc.app",
-    "sha256": "54747c41a93440ba91fd44be051939717c28c6c6c698f5e586a05b4b7469ac54"
+    "sha256": "01c5329032881efe30a0c49de332d448edffe868901d996a5091c0f89d321022"
   },
   {
     "name": "vlc",
