@@ -64,9 +64,9 @@
   },
   {
     "name": "blender",
-    "version": "4.3.0",
-    "url": "https://download.blender.org/release/Blender4.3/blender-4.3.0-macos-arm64.dmg",
+    "version": "4.3.1",
+    "url": "https://download.blender.org/release/Blender4.3/blender-4.3.1-macos-arm64.dmg",
     "source_root": "Blender.app",
-    "sha256": "07aaa387829e313568ca21b640f271a8cbb6c48e9fe568bc5fecec66d8f11c01"
+    "sha256": "82774b0397d335a0e7cd3a43601b290e0afaab81cc1f05678b8f953df34720db"
   }
 ]
