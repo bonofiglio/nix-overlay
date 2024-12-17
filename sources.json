@@ -15,17 +15,17 @@
   },
   {
     "name": "ungoogled-chromium",
-    "version": "131.0.6778.108-1.1",
-    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/131.0.6778.108-1.1/ungoogled-chromium_131.0.6778.108-1.1_arm64-macos.dmg",
+    "version": "131.0.6778.139-1.1",
+    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/131.0.6778.139-1.1/ungoogled-chromium_131.0.6778.139-1.1_arm64-macos.dmg",
     "source_root": "Chromium.app",
-    "sha256": "53441444446c902d830d3cf0132cba95c0c23119a0b55984fa19237b1a71f6ab"
+    "sha256": "b8a5bcaaa0f9a9a5ca9bd0c0fd3643a9df659f55b8acc2036551fbe359b1e9aa"
   },
   {
     "name": "craft",
-    "version": "3.0.1",
+    "version": "3.0.2",
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
     "source_root": "Craft.app",
-    "sha256": "e0e0fc43e06b8d0995031d13a45c8165498d8b7faf4dc53b68189ee59954c07e"
+    "sha256": "3363419acb12806271131f93da767aa4c88f14f6dc242b812b7af47eb3894472"
   },
   {
     "name": "firefox",
