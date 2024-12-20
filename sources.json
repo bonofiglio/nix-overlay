@@ -1,10 +1,10 @@
 [
   {
     "name": "google-chrome",
-    "version": "131.0.6778.140",
+    "version": "131.0.6778.205",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "86bd5ea39b4ceb6de4ef5522c232dc20c20645ccefe592af6c5ee21fe54e9a87"
+    "sha256": "05fb9ff171d86e1b4a70448feff43c6ab616aedc3e076227c6aaf764039c0d68"
   },
   {
     "name": "openemu",
@@ -36,10 +36,10 @@
   },
   {
     "name": "arc",
-    "version": "1.73.0,56815",
-    "url": "https://releases.arc.net/release/Arc-1.73.0-56815.zip",
+    "version": "1.74.0,57065",
+    "url": "https://releases.arc.net/release/Arc-1.74.0-57065.zip",
     "source_root": "Arc.app",
-    "sha256": "55b4b80e4997059ef4034e9f48e1629b24d4c1db92053365f33dec1617249ee6"
+    "sha256": "c85f0af0415cb6fb22c19c9526d3e2b21f62cb83a6714f8cdcafee6f57462bdc"
   },
   {
     "name": "vlc",
