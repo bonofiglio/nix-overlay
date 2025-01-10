@@ -50,10 +50,10 @@
   },
   {
     "name": "arc",
-    "version": "1.74.0,57065",
-    "url": "https://releases.arc.net/release/Arc-1.74.0-57065.zip",
+    "version": "1.77.0,57419",
+    "url": "https://releases.arc.net/release/Arc-1.77.0-57419.zip",
     "source_root": "Arc.app",
-    "sha256": "c85f0af0415cb6fb22c19c9526d3e2b21f62cb83a6714f8cdcafee6f57462bdc"
+    "sha256": "ef452185bcf87a2a5bcaa164dd78c177ae8404778894406eadbb78206d3deb6e"
   },
   {
     "name": "blender",
