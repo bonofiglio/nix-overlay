@@ -15,10 +15,10 @@
   },
   {
     "name": "craft",
-    "version": "3.0.2",
+    "version": "3.0.3",
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
     "source_root": "Craft.app",
-    "sha256": "3363419acb12806271131f93da767aa4c88f14f6dc242b812b7af47eb3894472"
+    "sha256": "e1911a1bd83406aa07cd6db591e666fa89bf452ce088c4a831ee2a5ddcb4fc03"
   },
   {
     "name": "openemu",
@@ -36,10 +36,10 @@
   },
   {
     "name": "ungoogled-chromium",
-    "version": "131.0.6778.204-1.1",
-    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/131.0.6778.204-1.1/ungoogled-chromium_131.0.6778.204-1.1_arm64-macos.dmg",
+    "version": "131.0.6778.264-1.1",
+    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/131.0.6778.264-1.1/ungoogled-chromium_131.0.6778.264-1.1_arm64-macos.dmg",
     "source_root": "Chromium.app",
-    "sha256": "1b2815ba51961767e30a46d210045f222bc536b2e4678925fe919ffc4391c628"
+    "sha256": "9d6eb10dd60ce80df0f705cb15fc8b6a46480a0815294c8b5cd7b7ab60fa395b"
   },
   {
     "name": "vlc",
@@ -64,9 +64,9 @@
   },
   {
     "name": "firefox",
-    "version": "134.0",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/134.0/mac/en-US/Firefox%20134.0.dmg",
+    "version": "134.0.1",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/134.0.1/mac/en-US/Firefox%20134.0.1.dmg",
     "source_root": "Firefox.app",
-    "sha256": "d293c10129a3c0bd10bd1724f0f5e35874382f1a17cc54bbc8f86666414a389e"
+    "sha256": "b3342c12bb44b7c78351fb32442a0775c15fb2ac809c24447fd8f8d1e2a42c62"
   }
 ]
