@@ -15,10 +15,10 @@
   },
   {
     "name": "craft",
-    "version": "3.0.3",
+    "version": "3.0.4",
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
     "source_root": "Craft.app",
-    "sha256": "e1911a1bd83406aa07cd6db591e666fa89bf452ce088c4a831ee2a5ddcb4fc03"
+    "sha256": "f82e59c7a766038e3fac43e50c1ac9a9cf7d4610122b8e2d831401abbacc305c"
   },
   {
     "name": "openemu",
@@ -50,10 +50,10 @@
   },
   {
     "name": "arc",
-    "version": "1.77.0,57419",
-    "url": "https://releases.arc.net/release/Arc-1.77.0-57419.zip",
+    "version": "1.78.0,57665",
+    "url": "https://releases.arc.net/release/Arc-1.78.0-57665.zip",
     "source_root": "Arc.app",
-    "sha256": "ef452185bcf87a2a5bcaa164dd78c177ae8404778894406eadbb78206d3deb6e"
+    "sha256": "3fc535fb78f54d59860ce37fff2f5b7576feba44e32a172cc7fa00ff8a1b1dc5"
   },
   {
     "name": "blender",
