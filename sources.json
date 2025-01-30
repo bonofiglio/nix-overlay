@@ -57,10 +57,10 @@
   },
   {
     "name": "craft",
-    "version": "3.0.4",
+    "version": "3.0.5",
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
     "source_root": "Craft.app",
-    "sha256": "f82e59c7a766038e3fac43e50c1ac9a9cf7d4610122b8e2d831401abbacc305c"
+    "sha256": "18d7ffb730863879878212e56468b42b93c60a2d526a7a5717afbecf3a0ee217"
   },
   {
     "name": "openemu",
