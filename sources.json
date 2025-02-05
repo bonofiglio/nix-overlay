@@ -1,10 +1,10 @@
 [
   {
     "name": "firefox",
-    "version": "134.0.2",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/134.0.2/mac/en-US/Firefox%20134.0.2.dmg",
+    "version": "135.0",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/135.0/mac/en-US/Firefox%20135.0.dmg",
     "source_root": "Firefox.app",
-    "sha256": "7832a8d1e1a13322dec1b52d32e1e64d2b6254de8348575f2d22af4975d56a85"
+    "sha256": "e55e24e6b2a4980f4b9091900835977b282f599dcdd5e38b753d95bad8a11da9"
   },
   {
     "name": "arc",
@@ -22,10 +22,10 @@
   },
   {
     "name": "google-chrome",
-    "version": "132.0.6834.160",
+    "version": "133.0.6943.54",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "502be8a04275ce4a20b861340980dceab7e70bf1dc29cafcdd951e3f57e5c883"
+    "sha256": "b4754ef40ebb5ae18c9303b89994a7ddc3ed96ae57b081a833835f795c56e1c3"
   },
   {
     "name": "height",
