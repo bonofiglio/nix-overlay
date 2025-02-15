@@ -43,10 +43,10 @@
   },
   {
     "name": "arc",
-    "version": "1.81.0,58533",
-    "url": "https://releases.arc.net/release/Arc-1.81.0-58533.zip",
+    "version": "1.82.1,58845",
+    "url": "https://releases.arc.net/release/Arc-1.82.1-58845.zip",
     "source_root": "Arc.app",
-    "sha256": "c6963d72a706478bf62027b829914701b326f6752dae58bf2b91a1d87625c587"
+    "sha256": "f2e70e3a75376e3f8a86d0d82a9455a065242ee30db6380fcf740219417484fa"
   },
   {
     "name": "height",
