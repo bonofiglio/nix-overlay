@@ -1,24 +1,24 @@
 [
   {
     "name": "ungoogled-chromium",
-    "version": "133.0.6943.98-1.1",
-    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/133.0.6943.98-1.1/ungoogled-chromium_133.0.6943.98-1.1_arm64-macos.dmg",
+    "version": "133.0.6943.141-1.1",
+    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/133.0.6943.141-1.1/ungoogled-chromium_133.0.6943.141-1.1_arm64-macos.dmg",
     "source_root": "Chromium.app",
-    "sha256": "84367beabd968fc5d2e367cb09b0bcb44f6a273d4f2dae5c589fc0db8fb49149"
+    "sha256": "c6751ce4bd66a3f5d3da7089b990199a74106d84f86e9b33327de89cb25107e4"
   },
   {
     "name": "firefox",
-    "version": "135.0.1",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/135.0.1/mac/en-US/Firefox%20135.0.1.dmg",
+    "version": "136.0",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/136.0/mac/en-US/Firefox%20136.0.dmg",
     "source_root": "Firefox.app",
-    "sha256": "adf1cdebf43d85b022e9b4555984f13d7c1eb75b6c007994432a96f2a73450f4"
+    "sha256": "078559a33491b7c5ef5dcde62fe3c812835aae98b63a7e32b3bf7e33cb33fcc8"
   },
   {
     "name": "google-chrome",
-    "version": "133.0.6943.142",
+    "version": "134.0.6998.45",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "ca7a935808f8f7d653f0e2be84679c9bc15daa8f286b108502ee29e43784996d"
+    "sha256": "8a1cf685cfdee25e2524205f21aade5bd751116d1813b8190a692de16c90aa17"
   },
   {
     "name": "arc",
