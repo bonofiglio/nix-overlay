@@ -8,17 +8,17 @@
   },
   {
     "name": "firefox",
-    "version": "136.0",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/136.0/mac/en-US/Firefox%20136.0.dmg",
+    "version": "136.0.1",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/136.0.1/mac/en-US/Firefox%20136.0.1.dmg",
     "source_root": "Firefox.app",
-    "sha256": "078559a33491b7c5ef5dcde62fe3c812835aae98b63a7e32b3bf7e33cb33fcc8"
+    "sha256": "416f5edf1e9fb938ccaea798adfe177ef7a4072c95a527cb460f3417d1ef5266"
   },
   {
     "name": "google-chrome",
-    "version": "134.0.6998.45",
+    "version": "134.0.6998.89",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "8a1cf685cfdee25e2524205f21aade5bd751116d1813b8190a692de16c90aa17"
+    "sha256": "4b9d1f1c541b8f4709deed5251c1e4900e05df57d7b65c2cdeabe6035f558383"
   },
   {
     "name": "arc",
@@ -50,10 +50,10 @@
   },
   {
     "name": "craft",
-    "version": "3.0.8",
+    "version": "3.1.0",
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
     "source_root": "Craft.app",
-    "sha256": "76ae05b8fa3be37f429aa7ca7eb2c62e3d9ff203739e21573615f7a0562b3cdf"
+    "sha256": "b75df962d191b7ef3bfc358964e74ad501d94c698b4b0c752064c8c14c9312bf"
   },
   {
     "name": "height",
