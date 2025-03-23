@@ -1,10 +1,10 @@
 [
   {
     "name": "ungoogled-chromium",
-    "version": "134.0.6998.88-1.1",
-    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/134.0.6998.88-1.1/ungoogled-chromium_134.0.6998.88-1.1_arm64-macos.dmg",
+    "version": "134.0.6998.117-1.1",
+    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/134.0.6998.117-1.1/ungoogled-chromium_134.0.6998.117-1.1_arm64-macos.dmg",
     "source_root": "Chromium.app",
-    "sha256": "2aea09fca8cd6f4b9f2cb8782b74bb20f2d9b65aa4bb5bc9fd20998374635400"
+    "sha256": "a94b1b7399dc7e9ee547b1dbb81578ea0dbd18fb07bb271cd00f43f9ce76fced"
   },
   {
     "name": "firefox",
@@ -15,10 +15,10 @@
   },
   {
     "name": "google-chrome",
-    "version": "134.0.6998.118",
+    "version": "134.0.6998.166",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "05576a986dd5d218c93274e87706824344623c845ffe7673c52c882905d55681"
+    "sha256": "458f02d4cb291ea66a34c80f3efaf579a31089f6acda18935bef01783dfcee95"
   },
   {
     "name": "arc",
