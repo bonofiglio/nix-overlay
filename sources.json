@@ -15,10 +15,10 @@
   },
   {
     "name": "google-chrome",
-    "version": "135.0.7049.42",
+    "version": "135.0.7049.85",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "d7cf97929662f0fc1679b916d117d7d0adf3ff136762a3f32dc19a44f5b8ed1f"
+    "sha256": "d25048f96ec217c273468b650b934939848950ffd74a3ac22475732c1160b84d"
   },
   {
     "name": "arc",
