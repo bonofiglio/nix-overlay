@@ -50,10 +50,10 @@
   },
   {
     "name": "craft",
-    "version": "3.1.1",
+    "version": "3.1.2",
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
     "source_root": "Craft.app",
-    "sha256": "d60bc5997c4271bc40d5fe18594d3670152b14ffa9c600cc39590876abc7d080"
+    "sha256": "587d12ae8045b80c31a14e629df07e25251677bff3f43536e5131ed499bee17d"
   },
   {
     "name": "height",
