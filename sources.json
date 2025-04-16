@@ -8,10 +8,10 @@
   },
   {
     "name": "firefox",
-    "version": "137.0.1",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/137.0.1/mac/en-US/Firefox%20137.0.1.dmg",
+    "version": "137.0.2",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/137.0.2/mac/en-US/Firefox%20137.0.2.dmg",
     "source_root": "Firefox.app",
-    "sha256": "0a7b63ff8894506d3884b3c067ca0a6ceb38d8b6aa412585c3018d3f46c38213"
+    "sha256": "0338912d47bdcb9ea2c09bcf31b7e68a4ded1a083b60c129781534d535601ed5"
   },
   {
     "name": "google-chrome",
@@ -43,17 +43,17 @@
   },
   {
     "name": "blender",
-    "version": "4.4.0",
-    "url": "https://download.blender.org/release/Blender4.4/blender-4.4.0-macos-arm64.dmg",
+    "version": "4.4.1",
+    "url": "https://download.blender.org/release/Blender4.4/blender-4.4.1-macos-arm64.dmg",
     "source_root": "Blender.app",
-    "sha256": "c3a1192d36d6202cd233081a54391c5778f3dd7aa3ca5af077f641e87a412104"
+    "sha256": "58d133838d59bb3fab7694ddfdcfb35e50c25838a9ddf28d152db05fdd592f20"
   },
   {
     "name": "craft",
-    "version": "3.1.2",
+    "version": "3.1.3",
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
     "source_root": "Craft.app",
-    "sha256": "587d12ae8045b80c31a14e629df07e25251677bff3f43536e5131ed499bee17d"
+    "sha256": "b258de6bd4093603ade30b0939a8f262b6c893a276887195e402173092fc3f94"
   },
   {
     "name": "height",
