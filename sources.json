@@ -15,10 +15,10 @@
   },
   {
     "name": "google-chrome",
-    "version": "135.0.7049.85",
+    "version": "135.0.7049.96",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "d25048f96ec217c273468b650b934939848950ffd74a3ac22475732c1160b84d"
+    "sha256": "c27ebe4bd439940d1b3428ea888fab634e760f113b2acd930d665dbb75eee421"
   },
   {
     "name": "arc",
@@ -50,10 +50,10 @@
   },
   {
     "name": "craft",
-    "version": "3.1.3",
+    "version": "3.1.4",
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
     "source_root": "Craft.app",
-    "sha256": "b258de6bd4093603ade30b0939a8f262b6c893a276887195e402173092fc3f94"
+    "sha256": "0ef85d201b9d899fdf5594d9f5857eabc5250b7e81ac55b666e43c0cff9fb343"
   },
   {
     "name": "height",
