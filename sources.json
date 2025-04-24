@@ -1,10 +1,10 @@
 [
   {
-    "name": "ungoogled-chromium",
-    "version": "135.0.7049.95-1.1",
-    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/135.0.7049.95-1.1/ungoogled-chromium_135.0.7049.95-1.1_arm64-macos.dmg",
-    "source_root": "Chromium.app",
-    "sha256": "1335cd24d3d432926486dafcb90d0801975664d544aeab08d58a77457a499998"
+    "name": "google-chrome",
+    "version": "135.0.7049.115",
+    "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
+    "source_root": "Google Chrome.app",
+    "sha256": "de7aedf54c8929c5e816e8f007532434329dd89264187bf29faf44eae413afda"
   },
   {
     "name": "firefox",
@@ -14,18 +14,11 @@
     "sha256": "0338912d47bdcb9ea2c09bcf31b7e68a4ded1a083b60c129781534d535601ed5"
   },
   {
-    "name": "google-chrome",
-    "version": "135.0.7049.96",
-    "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
-    "source_root": "Google Chrome.app",
-    "sha256": "c27ebe4bd439940d1b3428ea888fab634e760f113b2acd930d665dbb75eee421"
-  },
-  {
-    "name": "arc",
-    "version": "1.91.0,61725",
-    "url": "https://releases.arc.net/release/Arc-1.91.0-61725.zip",
-    "source_root": "Arc.app",
-    "sha256": "1f71d52c991a309ec336356ef50c243af36f4eb7d9b5089df10718122aca0c7d"
+    "name": "battery",
+    "version": "1.2.2",
+    "url": "https://github.com/actuallymentor/battery/releases/download/v1.2.2/battery-1.2.2-mac-arm64.dmg",
+    "source_root": "battery.app",
+    "sha256": "dc0ce58181bc53bbd4f2c500162e529067bd7d234962c8c7abfd7539c6e392ad"
   },
   {
     "name": "openemu",
@@ -35,11 +28,25 @@
     "sha256": "521ca1305c012d38f6f907f50399fefbf4e45a9bb8d9d4063157ffca78b217d4"
   },
   {
-    "name": "battery",
-    "version": "1.2.2",
-    "url": "https://github.com/actuallymentor/battery/releases/download/v1.2.2/battery-1.2.2-mac-arm64.dmg",
-    "source_root": "battery.app",
-    "sha256": "dc0ce58181bc53bbd4f2c500162e529067bd7d234962c8c7abfd7539c6e392ad"
+    "name": "arc",
+    "version": "1.91.0,61725",
+    "url": "https://releases.arc.net/release/Arc-1.91.0-61725.zip",
+    "source_root": "Arc.app",
+    "sha256": "1f71d52c991a309ec336356ef50c243af36f4eb7d9b5089df10718122aca0c7d"
+  },
+  {
+    "name": "ungoogled-chromium",
+    "version": "135.0.7049.95-1.1",
+    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/135.0.7049.95-1.1/ungoogled-chromium_135.0.7049.95-1.1_arm64-macos.dmg",
+    "source_root": "Chromium.app",
+    "sha256": "1335cd24d3d432926486dafcb90d0801975664d544aeab08d58a77457a499998"
+  },
+  {
+    "name": "height",
+    "version": "0.28.2",
+    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.28.2-universal.dmg",
+    "source_root": "Height.app",
+    "sha256": "d1bc02ef43598842d0a96533127ce0f2d38a56397e43ab1df31f2c02662ef17d"
   },
   {
     "name": "blender",
@@ -54,13 +61,6 @@
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
     "source_root": "Craft.app",
     "sha256": "0ef85d201b9d899fdf5594d9f5857eabc5250b7e81ac55b666e43c0cff9fb343"
-  },
-  {
-    "name": "height",
-    "version": "0.28.2",
-    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.28.2-universal.dmg",
-    "source_root": "Height.app",
-    "sha256": "d1bc02ef43598842d0a96533127ce0f2d38a56397e43ab1df31f2c02662ef17d"
   },
   {
     "name": "vlc",
