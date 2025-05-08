@@ -1,10 +1,10 @@
 [
   {
-    "name": "google-chrome",
-    "version": "136.0.7103.93",
-    "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
-    "source_root": "Google Chrome.app",
-    "sha256": "4c0c9f23c806ba32fbabe3d77339d5ace264b6dd9ff9e971f4dc009b60f15ad0"
+    "name": "height",
+    "version": "0.28.2",
+    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.28.2-universal.dmg",
+    "source_root": "Height.app",
+    "sha256": "d1bc02ef43598842d0a96533127ce0f2d38a56397e43ab1df31f2c02662ef17d"
   },
   {
     "name": "firefox",
@@ -14,13 +14,6 @@
     "sha256": "c4d9860f38683ba182d34c7a2b3b8157ec3e76498e0863d3ddab0c1a73360fb0"
   },
   {
-    "name": "battery",
-    "version": "1.2.2",
-    "url": "https://github.com/actuallymentor/battery/releases/download/v1.2.2/battery-1.2.2-mac-arm64.dmg",
-    "source_root": "battery.app",
-    "sha256": "dc0ce58181bc53bbd4f2c500162e529067bd7d234962c8c7abfd7539c6e392ad"
-  },
-  {
     "name": "openemu",
     "version": "2.4.1",
     "url": "https://github.com/OpenEmu/OpenEmu/releases/download/v2.4.1/OpenEmu_2.4.1.zip",
@@ -28,11 +21,11 @@
     "sha256": "521ca1305c012d38f6f907f50399fefbf4e45a9bb8d9d4063157ffca78b217d4"
   },
   {
-    "name": "arc",
-    "version": "1.93.0,62424",
-    "url": "https://releases.arc.net/release/Arc-1.93.0-62424.zip",
-    "source_root": "Arc.app",
-    "sha256": "73e48c84a2fe96370fa85e3b5d3ea1c4b39e5c5d14876e4e91542dded4fa3691"
+    "name": "vlc",
+    "version": "3.0.21",
+    "url": "https://get.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-arm64.dmg",
+    "source_root": "VLC.app",
+    "sha256": "15dd65bf6489da9ec6a67f5585c74c40a58993acff41a82958a916dd74178044"
   },
   {
     "name": "ungoogled-chromium",
@@ -42,11 +35,11 @@
     "sha256": "753e4bde57256df6c73e3c2b168a4c9b28cf2bd0bbc8d04001b9a69b594ad8f6"
   },
   {
-    "name": "height",
-    "version": "0.28.2",
-    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.28.2-universal.dmg",
-    "source_root": "Height.app",
-    "sha256": "d1bc02ef43598842d0a96533127ce0f2d38a56397e43ab1df31f2c02662ef17d"
+    "name": "craft",
+    "version": "3.1.4",
+    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
+    "source_root": "Craft.app",
+    "sha256": "0ef85d201b9d899fdf5594d9f5857eabc5250b7e81ac55b666e43c0cff9fb343"
   },
   {
     "name": "blender",
@@ -56,17 +49,24 @@
     "sha256": "9b592fdc758b9069c210494f10108b06ef82fd65a4aa8c0cc07d6eba0585578b"
   },
   {
-    "name": "craft",
-    "version": "3.1.4",
-    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
-    "source_root": "Craft.app",
-    "sha256": "0ef85d201b9d899fdf5594d9f5857eabc5250b7e81ac55b666e43c0cff9fb343"
+    "name": "google-chrome",
+    "version": "136.0.7103.93",
+    "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
+    "source_root": "Google Chrome.app",
+    "sha256": "4c0c9f23c806ba32fbabe3d77339d5ace264b6dd9ff9e971f4dc009b60f15ad0"
   },
   {
-    "name": "vlc",
-    "version": "3.0.21",
-    "url": "https://get.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-arm64.dmg",
-    "source_root": "VLC.app",
-    "sha256": "15dd65bf6489da9ec6a67f5585c74c40a58993acff41a82958a916dd74178044"
+    "name": "arc",
+    "version": "1.93.0,62424",
+    "url": "https://releases.arc.net/release/Arc-1.93.0-62424.zip",
+    "source_root": "Arc.app",
+    "sha256": "73e48c84a2fe96370fa85e3b5d3ea1c4b39e5c5d14876e4e91542dded4fa3691"
+  },
+  {
+    "name": "battery",
+    "version": "1.2.2",
+    "url": "https://github.com/actuallymentor/battery/releases/download/v1.2.2/battery-1.2.2-mac-arm64.dmg",
+    "source_root": "battery.app",
+    "sha256": "dc0ce58181bc53bbd4f2c500162e529067bd7d234962c8c7abfd7539c6e392ad"
   }
 ]
