@@ -15,10 +15,10 @@
   },
   {
     "name": "arc",
-    "version": "1.94.0,62506",
-    "url": "https://releases.arc.net/release/Arc-1.94.0-62506.zip",
+    "version": "1.95.0,62781",
+    "url": "https://releases.arc.net/release/Arc-1.95.0-62781.zip",
     "source_root": "Arc.app",
-    "sha256": "496d6f09fbac12ac3161f49bb5e9b4cdba79257e91e2c4a41161836b98319800"
+    "sha256": "6e856ed9278135deb9e3856d9ab692e7ca2b536b1d6f4116a503d963a07ba5b4"
   },
   {
     "name": "craft",
