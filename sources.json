@@ -15,17 +15,17 @@
   },
   {
     "name": "arc",
-    "version": "1.95.0,62781",
-    "url": "https://releases.arc.net/release/Arc-1.95.0-62781.zip",
+    "version": "1.95.1,62956",
+    "url": "https://releases.arc.net/release/Arc-1.95.1-62956.zip",
     "source_root": "Arc.app",
-    "sha256": "6e856ed9278135deb9e3856d9ab692e7ca2b536b1d6f4116a503d963a07ba5b4"
+    "sha256": "b8c0e8f22abbc07e8fd6911cc1c25e76e72f3df0a657e2f39867881db87a9f6d"
   },
   {
     "name": "craft",
-    "version": "3.1.4",
+    "version": "3.1.5",
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
     "source_root": "Craft.app",
-    "sha256": "0ef85d201b9d899fdf5594d9f5857eabc5250b7e81ac55b666e43c0cff9fb343"
+    "sha256": "0e0bbcd6233a696489f587076109ea72496c03c7babcc5466b090fd91014f1dd"
   },
   {
     "name": "blender",
