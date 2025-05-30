@@ -1,10 +1,10 @@
 [
   {
     "name": "firefox",
-    "version": "139.0",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/139.0/mac/en-US/Firefox%20139.0.dmg",
+    "version": "139.0.1",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/139.0.1/mac/en-US/Firefox%20139.0.1.dmg",
     "source_root": "Firefox.app",
-    "sha256": "03f1066b70b6e502c4f1a732a63f9f93146c6ea23d0af5e2e3a57d030e255353"
+    "sha256": "243478e2a2fd5d9dd0cc261c812b0146e433d703fec960c27c7284b2de7e65bc"
   },
   {
     "name": "openemu",
@@ -15,10 +15,10 @@
   },
   {
     "name": "arc",
-    "version": "1.95.1,62956",
-    "url": "https://releases.arc.net/release/Arc-1.95.1-62956.zip",
+    "version": "1.97.0,63507",
+    "url": "https://releases.arc.net/release/Arc-1.97.0-63507.zip",
     "source_root": "Arc.app",
-    "sha256": "b8c0e8f22abbc07e8fd6911cc1c25e76e72f3df0a657e2f39867881db87a9f6d"
+    "sha256": "bc392c5b51c9aaed5cd920c56c8774fa74ec3a43c9889d40ee7c583ebc256e07"
   },
   {
     "name": "craft",
