@@ -50,10 +50,10 @@
   },
   {
     "name": "ungoogled-chromium",
-    "version": "136.0.7103.113-1.1",
-    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/136.0.7103.113-1.1/ungoogled-chromium_136.0.7103.113-1.1_arm64-macos.dmg",
+    "version": "137.0.7151.55-1.1",
+    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/137.0.7151.55-1.1/ungoogled-chromium_137.0.7151.55-1.1_arm64-macos.dmg",
     "source_root": "Chromium.app",
-    "sha256": "9656979768c47a02f40f25011c35b5e5df23357afe905f93264ac138d2255c25"
+    "sha256": "17b92c92843b89e19f1285f3592a5f6868e5b3f5f138055730a325fc44f15cd1"
   },
   {
     "name": "blender",
