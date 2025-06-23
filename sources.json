@@ -22,10 +22,10 @@
   },
   {
     "name": "ungoogled-chromium",
-    "version": "137.0.7151.103-1.1",
-    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/137.0.7151.103-1.1/ungoogled-chromium_137.0.7151.103-1.1_arm64-macos.dmg",
+    "version": "137.0.7151.119-1.1",
+    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/137.0.7151.119-1.1/ungoogled-chromium_137.0.7151.119-1.1_arm64-macos.dmg",
     "source_root": "Chromium.app",
-    "sha256": "0432ec269d97077e6d39911f825c92df5b7351173337d86b9be291d53702edff"
+    "sha256": "598a1316929aa0f381dafd4b2f627bbe37f5c40e61fbc43f0515c84e401a22d8"
   },
   {
     "name": "craft",
