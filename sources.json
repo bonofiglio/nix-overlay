@@ -8,10 +8,10 @@
   },
   {
     "name": "google-chrome",
-    "version": "137.0.7151.120",
+    "version": "138.0.7204.50",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "3bba81fa7d1e80cbd84063cddbce45bd5516971fcee7484c715b022996fee33a"
+    "sha256": "1b4d216b3c8f9d3c7becd20ae8eb23c5ae0e625a35f3c27a896bfad0f3ecf8e4"
   },
   {
     "name": "vlc",
@@ -57,10 +57,10 @@
   },
   {
     "name": "firefox",
-    "version": "139.0.4",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/139.0.4/mac/en-US/Firefox%20139.0.4.dmg",
+    "version": "140.0",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.0/mac/en-US/Firefox%20140.0.dmg",
     "source_root": "Firefox.app",
-    "sha256": "fc058bf34094828c0919ad81672d697cf01dfa291ba9b11e0b1c119588878405"
+    "sha256": "6ed2ee0aa3f64a9eac93e1195c8fca54ba6b53c07eeea6fe4c6144491ae6b3d9"
   },
   {
     "name": "height",
