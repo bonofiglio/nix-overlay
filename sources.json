@@ -1,10 +1,10 @@
 [
   {
     "name": "battery",
-    "version": "1.2.2",
-    "url": "https://github.com/actuallymentor/battery/releases/download/v1.2.2/battery-1.2.2-mac-arm64.dmg",
+    "version": "1.2.3",
+    "url": "https://github.com/actuallymentor/battery/releases/download/v1.2.3/battery-1.2.3-mac-arm64.dmg",
     "source_root": "battery.app",
-    "sha256": "dc0ce58181bc53bbd4f2c500162e529067bd7d234962c8c7abfd7539c6e392ad"
+    "sha256": "e0a528db9d170a5b8d3e0feff01b12170b8a9fb5fd983054d505d864e081ba2d"
   },
   {
     "name": "google-chrome",
@@ -22,10 +22,10 @@
   },
   {
     "name": "ungoogled-chromium",
-    "version": "137.0.7151.119-1.1",
-    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/137.0.7151.119-1.1/ungoogled-chromium_137.0.7151.119-1.1_arm64-macos.dmg",
-    "source_root": "Chromium.app",
-    "sha256": "598a1316929aa0f381dafd4b2f627bbe37f5c40e61fbc43f0515c84e401a22d8"
+    "version": "",
+    "url": "",
+    "source_root": "",
+    "sha256": ""
   },
   {
     "name": "craft",
@@ -43,10 +43,10 @@
   },
   {
     "name": "arc",
-    "version": "1.100.0,64467",
-    "url": "https://releases.arc.net/release/Arc-1.100.0-64467.zip",
+    "version": "1.101.0,64746",
+    "url": "https://releases.arc.net/release/Arc-1.101.0-64746.zip",
     "source_root": "Arc.app",
-    "sha256": "f32d84bc18cdd1a69e6d0dc9a6623b1e42d7fc09e8a04c99dfbde375d094c9e0"
+    "sha256": "31056e0793359aecaacbf94f18dee6473a1edf315889ad6c968721af48d10763"
   },
   {
     "name": "blender",
@@ -57,10 +57,10 @@
   },
   {
     "name": "firefox",
-    "version": "140.0",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.0/mac/en-US/Firefox%20140.0.dmg",
+    "version": "140.0.1",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.0.1/mac/en-US/Firefox%20140.0.1.dmg",
     "source_root": "Firefox.app",
-    "sha256": "6ed2ee0aa3f64a9eac93e1195c8fca54ba6b53c07eeea6fe4c6144491ae6b3d9"
+    "sha256": "1049b957e497df1a9ab5fdfad971b02f00f3573029a23cbb930bc4fa60d2c7b4"
   },
   {
     "name": "height",
