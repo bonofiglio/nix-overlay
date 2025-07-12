@@ -1,12 +1,5 @@
 [
   {
-    "name": "battery",
-    "version": "1.2.3",
-    "url": "https://github.com/actuallymentor/battery/releases/download/v1.2.3/battery-1.2.3-mac-arm64.dmg",
-    "source_root": "battery.app",
-    "sha256": "e0a528db9d170a5b8d3e0feff01b12170b8a9fb5fd983054d505d864e081ba2d"
-  },
-  {
     "name": "google-chrome",
     "version": "138.0.7204.101",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
@@ -14,11 +7,46 @@
     "sha256": "887110e7035c8fb48b2f6b55151e2c4d9edb0799bf4e499b84e02f329d746a8d"
   },
   {
-    "name": "vlc",
-    "version": "3.0.21",
-    "url": "https://get.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-arm64.dmg",
-    "source_root": "VLC.app",
-    "sha256": "15dd65bf6489da9ec6a67f5585c74c40a58993acff41a82958a916dd74178044"
+    "name": "battery",
+    "version": "1.2.3",
+    "url": "https://github.com/actuallymentor/battery/releases/download/v1.2.3/battery-1.2.3-mac-arm64.dmg",
+    "source_root": "battery.app",
+    "sha256": "e0a528db9d170a5b8d3e0feff01b12170b8a9fb5fd983054d505d864e081ba2d"
+  },
+  {
+    "name": "openemu",
+    "version": "2.4.1",
+    "url": "https://github.com/OpenEmu/OpenEmu/releases/download/v2.4.1/OpenEmu_2.4.1.zip",
+    "source_root": "OpenEmu.app",
+    "sha256": "521ca1305c012d38f6f907f50399fefbf4e45a9bb8d9d4063157ffca78b217d4"
+  },
+  {
+    "name": "firefox",
+    "version": "140.0.4",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.0.4/mac/en-US/Firefox%20140.0.4.dmg",
+    "source_root": "Firefox.app",
+    "sha256": "e97d88d6ac04766cc52963d0d8f567bd39464bfc612167cd81627e6bb22d1d8c"
+  },
+  {
+    "name": "blender",
+    "version": "4.4.3",
+    "url": "https://download.blender.org/release/Blender4.4/blender-4.4.3-macos-arm64.dmg",
+    "source_root": "Blender.app",
+    "sha256": "9b592fdc758b9069c210494f10108b06ef82fd65a4aa8c0cc07d6eba0585578b"
+  },
+  {
+    "name": "height",
+    "version": "0.28.2",
+    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.28.2-universal.dmg",
+    "source_root": "Height.app",
+    "sha256": "d1bc02ef43598842d0a96533127ce0f2d38a56397e43ab1df31f2c02662ef17d"
+  },
+  {
+    "name": "arc",
+    "version": "1.103.0,65269",
+    "url": "https://releases.arc.net/release/Arc-1.103.0-65269.zip",
+    "source_root": "Arc.app",
+    "sha256": "1912a82a79cfed5136f6cb58485bd54342ecfdedee233b85357a6d85411bfa5a"
   },
   {
     "name": "ungoogled-chromium",
@@ -35,38 +63,10 @@
     "sha256": "2d0bb4bae499ae7174a8ca1a92f2dbe0123bd2149db793395faf105c818b9cea"
   },
   {
-    "name": "openemu",
-    "version": "2.4.1",
-    "url": "https://github.com/OpenEmu/OpenEmu/releases/download/v2.4.1/OpenEmu_2.4.1.zip",
-    "source_root": "OpenEmu.app",
-    "sha256": "521ca1305c012d38f6f907f50399fefbf4e45a9bb8d9d4063157ffca78b217d4"
-  },
-  {
-    "name": "arc",
-    "version": "1.103.0,65269",
-    "url": "https://releases.arc.net/release/Arc-1.103.0-65269.zip",
-    "source_root": "Arc.app",
-    "sha256": "1912a82a79cfed5136f6cb58485bd54342ecfdedee233b85357a6d85411bfa5a"
-  },
-  {
-    "name": "blender",
-    "version": "4.4.3",
-    "url": "https://download.blender.org/release/Blender4.4/blender-4.4.3-macos-arm64.dmg",
-    "source_root": "Blender.app",
-    "sha256": "9b592fdc758b9069c210494f10108b06ef82fd65a4aa8c0cc07d6eba0585578b"
-  },
-  {
-    "name": "firefox",
-    "version": "140.0.4",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.0.4/mac/en-US/Firefox%20140.0.4.dmg",
-    "source_root": "Firefox.app",
-    "sha256": "e97d88d6ac04766cc52963d0d8f567bd39464bfc612167cd81627e6bb22d1d8c"
-  },
-  {
-    "name": "height",
-    "version": "0.28.2",
-    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.28.2-universal.dmg",
-    "source_root": "Height.app",
-    "sha256": "d1bc02ef43598842d0a96533127ce0f2d38a56397e43ab1df31f2c02662ef17d"
+    "name": "vlc",
+    "version": "3.0.21",
+    "url": "https://get.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-arm64.dmg",
+    "source_root": "VLC.app",
+    "sha256": "15dd65bf6489da9ec6a67f5585c74c40a58993acff41a82958a916dd74178044"
   }
 ]
