@@ -43,10 +43,10 @@
   },
   {
     "name": "arc",
-    "version": "1.104.0,65533",
-    "url": "https://releases.arc.net/release/Arc-1.104.0-65533.zip",
+    "version": "1.105.0,65817",
+    "url": "https://releases.arc.net/release/Arc-1.105.0-65817.zip",
     "source_root": "Arc.app",
-    "sha256": "29ecf77f23a20c36acedc4aa8fe4904512a15100e1962df31136694c7be63601"
+    "sha256": "8edb105065561e920ae232df496490a798c9e84344e23024fc3c7cde68ad8919"
   },
   {
     "name": "ungoogled-chromium",
