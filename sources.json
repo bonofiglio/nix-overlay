@@ -22,10 +22,10 @@
   },
   {
     "name": "firefox",
-    "version": "141.0.2",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/141.0.2/mac/en-US/Firefox%20141.0.2.dmg",
+    "version": "141.0.3",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/141.0.3/mac/en-US/Firefox%20141.0.3.dmg",
     "source_root": "Firefox.app",
-    "sha256": "1cd69b03bcf48b9eef1b5221bd4297469d60026139f29213b571e32a993fe2f8"
+    "sha256": "bb922cda690543bddaa1fbc3b3cba508c60774832643452bc266595331f42db1"
   },
   {
     "name": "blender",
@@ -43,10 +43,10 @@
   },
   {
     "name": "arc",
-    "version": "1.106.0,66192",
-    "url": "https://releases.arc.net/release/Arc-1.106.0-66192.zip",
+    "version": "1.107.0,66519",
+    "url": "https://releases.arc.net/release/Arc-1.107.0-66519.zip",
     "source_root": "Arc.app",
-    "sha256": "1d82025e10d916d16d98b688c17e7e9ca361b21cedba0a8d7fc8fd1f4500595c"
+    "sha256": "1e956919de17df55f555a424e0356bb10d644b2847d80941b8c62d52ef84dcd1"
   },
   {
     "name": "ungoogled-chromium",
