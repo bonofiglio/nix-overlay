@@ -1,59 +1,10 @@
 [
   {
-    "name": "google-chrome",
-    "version": "139.0.7258.67",
-    "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
-    "source_root": "Google Chrome.app",
-    "sha256": "588bd2a648bbd0ea0b43b8324c12047bc021e7d5f05ff08a28a6bd550d19c71d"
-  },
-  {
-    "name": "battery",
-    "version": "1.2.3",
-    "url": "https://github.com/actuallymentor/battery/releases/download/v1.2.3/battery-1.2.3-mac-arm64.dmg",
-    "source_root": "battery.app",
-    "sha256": "e0a528db9d170a5b8d3e0feff01b12170b8a9fb5fd983054d505d864e081ba2d"
-  },
-  {
-    "name": "openemu",
-    "version": "2.4.1",
-    "url": "https://github.com/OpenEmu/OpenEmu/releases/download/v2.4.1/OpenEmu_2.4.1.zip",
-    "source_root": "OpenEmu.app",
-    "sha256": "521ca1305c012d38f6f907f50399fefbf4e45a9bb8d9d4063157ffca78b217d4"
-  },
-  {
-    "name": "firefox",
-    "version": "141.0.3",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/141.0.3/mac/en-US/Firefox%20141.0.3.dmg",
-    "source_root": "Firefox.app",
-    "sha256": "bb922cda690543bddaa1fbc3b3cba508c60774832643452bc266595331f42db1"
-  },
-  {
-    "name": "blender",
-    "version": "4.5.1",
-    "url": "https://download.blender.org/release/Blender4.5/blender-4.5.1-macos-arm64.dmg",
-    "source_root": "Blender.app",
-    "sha256": "99dcd51528cc06bd872bb28867f6663c21332f4986cc87bea95131da93a23e0f"
-  },
-  {
     "name": "height",
     "version": "0.28.2",
     "url": "https://storage.googleapis.com/height-statics/_app/Height-0.28.2-universal.dmg",
     "source_root": "Height.app",
     "sha256": "d1bc02ef43598842d0a96533127ce0f2d38a56397e43ab1df31f2c02662ef17d"
-  },
-  {
-    "name": "arc",
-    "version": "1.107.0,66519",
-    "url": "https://releases.arc.net/release/Arc-1.107.0-66519.zip",
-    "source_root": "Arc.app",
-    "sha256": "1e956919de17df55f555a424e0356bb10d644b2847d80941b8c62d52ef84dcd1"
-  },
-  {
-    "name": "ungoogled-chromium",
-    "version": "",
-    "url": "",
-    "source_root": "",
-    "sha256": ""
   },
   {
     "name": "craft",
@@ -63,10 +14,59 @@
     "sha256": "64730d3fc2d6b0f17b7abb33bd1f4b2992e277ee284edaab5eec2a7f4c004b26"
   },
   {
+    "name": "arc",
+    "version": "1.107.0,66519",
+    "url": "https://releases.arc.net/release/Arc-1.107.0-66519.zip",
+    "source_root": "Arc.app",
+    "sha256": "1e956919de17df55f555a424e0356bb10d644b2847d80941b8c62d52ef84dcd1"
+  },
+  {
     "name": "vlc",
     "version": "3.0.21",
     "url": "https://get.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-arm64.dmg",
     "source_root": "VLC.app",
     "sha256": "15dd65bf6489da9ec6a67f5585c74c40a58993acff41a82958a916dd74178044"
+  },
+  {
+    "name": "ungoogled-chromium",
+    "version": "",
+    "url": "",
+    "source_root": "",
+    "sha256": ""
+  },
+  {
+    "name": "blender",
+    "version": "4.5.1",
+    "url": "https://download.blender.org/release/Blender4.5/blender-4.5.1-macos-arm64.dmg",
+    "source_root": "Blender.app",
+    "sha256": "99dcd51528cc06bd872bb28867f6663c21332f4986cc87bea95131da93a23e0f"
+  },
+  {
+    "name": "google-chrome",
+    "version": "139.0.7258.67",
+    "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
+    "source_root": "Google Chrome.app",
+    "sha256": "588bd2a648bbd0ea0b43b8324c12047bc021e7d5f05ff08a28a6bd550d19c71d"
+  },
+  {
+    "name": "openemu",
+    "version": "2.4.1",
+    "url": "https://github.com/OpenEmu/OpenEmu/releases/download/v2.4.1/OpenEmu_2.4.1.zip",
+    "source_root": "OpenEmu.app",
+    "sha256": "521ca1305c012d38f6f907f50399fefbf4e45a9bb8d9d4063157ffca78b217d4"
+  },
+  {
+    "name": "battery",
+    "version": "1.2.3",
+    "url": "https://github.com/actuallymentor/battery/releases/download/v1.2.3/battery-1.2.3-mac-arm64.dmg",
+    "source_root": "battery.app",
+    "sha256": "e0a528db9d170a5b8d3e0feff01b12170b8a9fb5fd983054d505d864e081ba2d"
+  },
+  {
+    "name": "firefox",
+    "version": "141.0.3",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/141.0.3/mac/en-US/Firefox%20141.0.3.dmg",
+    "source_root": "Firefox.app",
+    "sha256": "bb922cda690543bddaa1fbc3b3cba508c60774832643452bc266595331f42db1"
   }
 ]
