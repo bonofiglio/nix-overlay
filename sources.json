@@ -43,10 +43,10 @@
   },
   {
     "name": "google-chrome",
-    "version": "139.0.7258.128",
+    "version": "139.0.7258.139",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "beb2293f39604047be64dc026a85d008549a1afa64b28c1a04529a0c0196c9dd"
+    "sha256": "b5056410f3286dad928c8e523a2b1c7fc6bdc52e2433449d0ee95e158d37414a"
   },
   {
     "name": "openemu",
