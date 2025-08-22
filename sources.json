@@ -8,17 +8,17 @@
   },
   {
     "name": "craft",
-    "version": "3.1.9",
+    "version": "3.2.0",
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
     "source_root": "Craft.app",
-    "sha256": "64730d3fc2d6b0f17b7abb33bd1f4b2992e277ee284edaab5eec2a7f4c004b26"
+    "sha256": "f2d3e6dd0c5227cf82e243efedfda6721ad89d10be11fbb6b7a4108f93a6d41b"
   },
   {
     "name": "arc",
-    "version": "1.108.0,66882",
-    "url": "https://releases.arc.net/release/Arc-1.108.0-66882.zip",
+    "version": "1.109.0,67185",
+    "url": "https://releases.arc.net/release/Arc-1.109.0-67185.zip",
     "source_root": "Arc.app",
-    "sha256": "86cf5d07a6f4dab2f17df828f0fedfa255791781461a4ba297e48a85b7606913"
+    "sha256": "5313137ceac6deb989b12b89edf0a8effb1fc838dcd63b70e8bfe809cd0263c6"
   },
   {
     "name": "vlc",
