@@ -1,40 +1,5 @@
 [
   {
-    "name": "height",
-    "version": "0.28.2",
-    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.28.2-universal.dmg",
-    "source_root": "Height.app",
-    "sha256": "d1bc02ef43598842d0a96533127ce0f2d38a56397e43ab1df31f2c02662ef17d"
-  },
-  {
-    "name": "craft",
-    "version": "3.2.0",
-    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
-    "source_root": "Craft.app",
-    "sha256": "f2d3e6dd0c5227cf82e243efedfda6721ad89d10be11fbb6b7a4108f93a6d41b"
-  },
-  {
-    "name": "arc",
-    "version": "1.109.0,67185",
-    "url": "https://releases.arc.net/release/Arc-1.109.0-67185.zip",
-    "source_root": "Arc.app",
-    "sha256": "5313137ceac6deb989b12b89edf0a8effb1fc838dcd63b70e8bfe809cd0263c6"
-  },
-  {
-    "name": "vlc",
-    "version": "3.0.21",
-    "url": "https://get.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-arm64.dmg",
-    "source_root": "VLC.app",
-    "sha256": "15dd65bf6489da9ec6a67f5585c74c40a58993acff41a82958a916dd74178044"
-  },
-  {
-    "name": "ungoogled-chromium",
-    "version": "",
-    "url": "",
-    "source_root": "",
-    "sha256": ""
-  },
-  {
     "name": "blender",
     "version": "4.5.2",
     "url": "https://download.blender.org/release/Blender4.5/blender-4.5.2-macos-arm64.dmg",
@@ -42,11 +7,11 @@
     "sha256": "e5191d01da15c66c2b3d18a289fcc0a5721bc008baaa7321a91d6dae6c07822d"
   },
   {
-    "name": "google-chrome",
-    "version": "139.0.7258.139",
-    "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
-    "source_root": "Google Chrome.app",
-    "sha256": "b5056410f3286dad928c8e523a2b1c7fc6bdc52e2433449d0ee95e158d37414a"
+    "name": "firefox",
+    "version": "142.0.1",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/142.0.1/mac/en-US/Firefox%20142.0.1.dmg",
+    "source_root": "Firefox.app",
+    "sha256": "de41866c94d064a20cd787d89203c5f646fe0278da13c44605733ce205680965"
   },
   {
     "name": "openemu",
@@ -56,6 +21,13 @@
     "sha256": "521ca1305c012d38f6f907f50399fefbf4e45a9bb8d9d4063157ffca78b217d4"
   },
   {
+    "name": "vlc",
+    "version": "3.0.21",
+    "url": "https://get.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-arm64.dmg",
+    "source_root": "VLC.app",
+    "sha256": "15dd65bf6489da9ec6a67f5585c74c40a58993acff41a82958a916dd74178044"
+  },
+  {
     "name": "battery",
     "version": "1.2.3",
     "url": "https://github.com/actuallymentor/battery/releases/download/v1.2.3/battery-1.2.3-mac-arm64.dmg",
@@ -63,10 +35,38 @@
     "sha256": "e0a528db9d170a5b8d3e0feff01b12170b8a9fb5fd983054d505d864e081ba2d"
   },
   {
-    "name": "firefox",
-    "version": "142.0",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/142.0/mac/en-US/Firefox%20142.0.dmg",
-    "source_root": "Firefox.app",
-    "sha256": "cc0ce6b3ec64d064c16187f92ca4a8df5a21a1d7aa2f79a9e82b44602f2b1a0f"
+    "name": "arc",
+    "version": "1.109.0,67185",
+    "url": "https://releases.arc.net/release/Arc-1.109.0-67185.zip",
+    "source_root": "Arc.app",
+    "sha256": "5313137ceac6deb989b12b89edf0a8effb1fc838dcd63b70e8bfe809cd0263c6"
+  },
+  {
+    "name": "google-chrome",
+    "version": "139.0.7258.155",
+    "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
+    "source_root": "Google Chrome.app",
+    "sha256": "4f366c3274850dedbcd7742b02b7052e83da337d313915a9e35ddcf43e8a0515"
+  },
+  {
+    "name": "height",
+    "version": "0.28.2",
+    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.28.2-universal.dmg",
+    "source_root": "Height.app",
+    "sha256": "d1bc02ef43598842d0a96533127ce0f2d38a56397e43ab1df31f2c02662ef17d"
+  },
+  {
+    "name": "ungoogled-chromium",
+    "version": "",
+    "url": "",
+    "source_root": "",
+    "sha256": ""
+  },
+  {
+    "name": "craft",
+    "version": "3.2.0",
+    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
+    "source_root": "Craft.app",
+    "sha256": "f2d3e6dd0c5227cf82e243efedfda6721ad89d10be11fbb6b7a4108f93a6d41b"
   }
 ]
