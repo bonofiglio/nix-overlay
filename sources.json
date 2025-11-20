@@ -43,10 +43,10 @@
   },
   {
     "name": "blender",
-    "version": "4.5.5",
-    "url": "https://download.blender.org/release/Blender4.5/blender-4.5.5-macos-arm64.dmg",
+    "version": "5.0.0",
+    "url": "https://download.blender.org/release/Blender5.0/blender-5.0.0-macos-arm64.dmg",
     "source_root": "Blender.app",
-    "sha256": "de1d239d1326378744326bdf1a55f935cdd3d7e808eadd0d601bba28e06e05f6"
+    "sha256": "b23984753ec8354878acc25cd4073a41ae195522013f1649903a593bccbfa54b"
   },
   {
     "name": "openemu",
@@ -64,9 +64,9 @@
   },
   {
     "name": "arc",
-    "version": "1.121.0,70772",
-    "url": "https://releases.arc.net/release/Arc-1.121.0-70772.zip",
+    "version": "1.121.1,71020",
+    "url": "https://releases.arc.net/release/Arc-1.121.1-71020.zip",
     "source_root": "Arc.app",
-    "sha256": "02eca68c11a8bd6154aca455b1e03acb0305fbe5266e7abd84b209be0ac15418"
+    "sha256": "ddda75243346b7a9b9011428146f6bc3e97934bff2a2eb3ab26ca956a31a055d"
   }
 ]
