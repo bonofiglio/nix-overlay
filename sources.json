@@ -57,10 +57,10 @@
   },
   {
     "name": "craft",
-    "version": "3.3.2",
+    "version": "3.3.3",
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
     "source_root": "Craft.app",
-    "sha256": "a08852da12990a29c00133407f22204d802a60a64f29e2ec02b392bedc4e396c"
+    "sha256": "5e329cf58fc09e28040de2ed3f93a4178fe42ae06978715dc7b0ef2b4ab441a1"
   },
   {
     "name": "arc",
