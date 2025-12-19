@@ -1,10 +1,10 @@
 [
   {
     "name": "firefox",
-    "version": "146.0",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/mac/en-US/Firefox%20146.0.dmg",
+    "version": "146.0.1",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0.1/mac/en-US/Firefox%20146.0.1.dmg",
     "source_root": "Firefox.app",
-    "sha256": "4b1645313887972d466cd82166ea571485c2c40a167f84624e3f3ca739993cc9"
+    "sha256": "1f153af0954e0e804cedfac185281a762cd6f270238687d8c7060d162435a1ff"
   },
   {
     "name": "height",
@@ -64,9 +64,9 @@
   },
   {
     "name": "arc",
-    "version": "1.125.1,72271",
-    "url": "https://releases.arc.net/release/Arc-1.125.1-72271.zip",
+    "version": "1.126.0,72533",
+    "url": "https://releases.arc.net/release/Arc-1.126.0-72533.zip",
     "source_root": "Arc.app",
-    "sha256": "3db2a3c68d52df230989d92b1b205320cad9310315ce2fcd95f817e192057703"
+    "sha256": "6856b0aad67a38424b5a7643447a4158639ff8980639cf51a6cf0df758fa441d"
   }
 ]
