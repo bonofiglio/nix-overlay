@@ -22,10 +22,10 @@
   },
   {
     "name": "google-chrome",
-    "version": "143.0.7499.147",
+    "version": "143.0.7499.170",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "9b0b73377ed243e4a783e164cd7a872a9ad2f40b40ed1374c7656211618e54b7"
+    "sha256": "2ddb9a4119101cf3542088e0f3ab0f9f339253572497ad6ce27414ccc4a582f6"
   },
   {
     "name": "vlc",
@@ -64,9 +64,9 @@
   },
   {
     "name": "arc",
-    "version": "1.126.0,72533",
-    "url": "https://releases.arc.net/release/Arc-1.126.0-72533.zip",
+    "version": "1.126.1,72660",
+    "url": "https://releases.arc.net/release/Arc-1.126.1-72660.zip",
     "source_root": "Arc.app",
-    "sha256": "6856b0aad67a38424b5a7643447a4158639ff8980639cf51a6cf0df758fa441d"
+    "sha256": "523b965b93717573fdacbf7fd95fb7ecb83287fd656675d17a2d8e4a335e38ae"
   }
 ]
