@@ -29,10 +29,10 @@
   },
   {
     "name": "vlc",
-    "version": "3.0.21",
-    "url": "https://get.videolan.org/vlc/3.0.21/macosx/vlc-3.0.21-arm64.dmg",
+    "version": "3.0.23",
+    "url": "https://get.videolan.org/vlc/3.0.23/macosx/vlc-3.0.23-arm64.dmg",
     "source_root": "VLC.app",
-    "sha256": "15dd65bf6489da9ec6a67f5585c74c40a58993acff41a82958a916dd74178044"
+    "sha256": "fc6fac08d87f538517d44aca0c5e7a244b67c8c4cb589bf478363a7315fd5e0d"
   },
   {
     "name": "battery",
@@ -64,9 +64,9 @@
   },
   {
     "name": "arc",
-    "version": "1.126.1,72660",
-    "url": "https://releases.arc.net/release/Arc-1.126.1-72660.zip",
+    "version": "1.129.0,73083",
+    "url": "https://releases.arc.net/release/Arc-1.129.0-73083.zip",
     "source_root": "Arc.app",
-    "sha256": "523b965b93717573fdacbf7fd95fb7ecb83287fd656675d17a2d8e4a335e38ae"
+    "sha256": "cf5d358365626f7e0649f7b2efbf8e52879accc48c08b9665b257e38b16e8224"
   }
 ]
