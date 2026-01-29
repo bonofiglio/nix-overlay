@@ -22,10 +22,10 @@
   },
   {
     "name": "google-chrome",
-    "version": "144.0.7559.97",
+    "version": "144.0.7559.110",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "82882d52bac0f0c525229a7d34275ca365c36e8fd97ff1c6004dfb9d44eb2d88"
+    "sha256": "fb56dfaccca81272936143a9c75f5cdb400063f70e4cdd75f305bdb32bb62001"
   },
   {
     "name": "vlc",
