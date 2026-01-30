@@ -57,16 +57,16 @@
   },
   {
     "name": "craft",
-    "version": "3.3.6",
+    "version": "3.3.7",
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
     "source_root": "Craft.app",
-    "sha256": "25baa41886f1402cbc88859aeedb3d45120f15ed82865ebb7ca05256fa9d291a"
+    "sha256": "5a3da5acc0b8af97906a48ba45e4e97593ed76474a44f56fd34913eb01e1767f"
   },
   {
     "name": "arc",
-    "version": "1.131.0,73882",
-    "url": "https://releases.arc.net/release/Arc-1.131.0-73882.zip",
+    "version": "1.132.0,74204",
+    "url": "https://releases.arc.net/release/Arc-1.132.0-74204.zip",
     "source_root": "Arc.app",
-    "sha256": "65f05d08f0b59ad0340c75a3be36770be85da1b4c9d9c168dbac7eb8b1de1e2e"
+    "sha256": "21dd98b6d5e120b121b354711e3c5cca0d0a2e837a4d7aac274788d45e7854f8"
   }
 ]
