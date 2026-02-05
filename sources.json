@@ -1,10 +1,10 @@
 [
   {
     "name": "firefox",
-    "version": "147.0.2",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/147.0.2/mac/en-US/Firefox%20147.0.2.dmg",
+    "version": "147.0.3",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/147.0.3/mac/en-US/Firefox%20147.0.3.dmg",
     "source_root": "Firefox.app",
-    "sha256": "767ee20f7742da7c6ea5edc6daa5ca66be56f299d457a188172fe9ba9b658c68"
+    "sha256": "400ce7988c3789ef7b57b4b1411f2aa726e045b63597ca708e005a9c81e87528"
   },
   {
     "name": "height",
@@ -22,10 +22,10 @@
   },
   {
     "name": "google-chrome",
-    "version": "144.0.7559.110",
+    "version": "144.0.7559.133",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "fb56dfaccca81272936143a9c75f5cdb400063f70e4cdd75f305bdb32bb62001"
+    "sha256": "3f54f148b251a7c8669c758f93774b4787eb1d3592f49392fa4015c551326960"
   },
   {
     "name": "vlc",
@@ -57,10 +57,10 @@
   },
   {
     "name": "craft",
-    "version": "3.3.7",
+    "version": "3.3.8",
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
     "source_root": "Craft.app",
-    "sha256": "5a3da5acc0b8af97906a48ba45e4e97593ed76474a44f56fd34913eb01e1767f"
+    "sha256": "eb3cd7645d921ca57a9c1edf2abffd9cfbd9b40a7598ea6e68727791f5973b84"
   },
   {
     "name": "arc",
