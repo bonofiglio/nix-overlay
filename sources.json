@@ -29,7 +29,7 @@
   },
   {
     "name": "google-chrome",
-    "version": "145.0.7632.68",
+    "version": "145.0.7632.76",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
     "sha256": "f81db63e645dc920ec06e4f1cdde5faf2e3ec3fbd66bbafbfbdee93352bacca0"
