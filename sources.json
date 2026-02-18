@@ -22,10 +22,10 @@
   },
   {
     "name": "craft",
-    "version": "3.3.8",
+    "version": "3.3.9",
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
     "source_root": "Craft.app",
-    "sha256": "eb3cd7645d921ca57a9c1edf2abffd9cfbd9b40a7598ea6e68727791f5973b84"
+    "sha256": "0176dafc7f1184ad793a6d6f0c13f785d12c252f361adb8af63aceebf51dff4b"
   },
   {
     "name": "google-chrome",
@@ -43,10 +43,10 @@
   },
   {
     "name": "arc",
-    "version": "1.134.0,74986",
-    "url": "https://releases.arc.net/release/Arc-1.134.0-74986.zip",
+    "version": "1.134.1,75211",
+    "url": "https://releases.arc.net/release/Arc-1.134.1-75211.zip",
     "source_root": "Arc.app",
-    "sha256": "eaf22b024f2878f5189499753702fde48c4d85c711e7370d2e777708ed0d7a38"
+    "sha256": "883da04b8fb1e71ae7f2475c50eb6a3457e54bfc0afcf17b2f9e1d5ca8287c04"
   },
   {
     "name": "battery",
