@@ -29,10 +29,10 @@
   },
   {
     "name": "google-chrome",
-    "version": "145.0.7632.117",
+    "version": "145.0.7632.160",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "b4465093ae27214f5c82f2b03b00489f8a4bbf49934fdbd2826a8b118a82c808"
+    "sha256": "33cfd3df31bdbf872ed8d49d0a2e2d0e125b94139557069722a20aaffd8246e3"
   },
   {
     "name": "blender",
@@ -43,10 +43,10 @@
   },
   {
     "name": "arc",
-    "version": "1.136.0,75750",
-    "url": "https://releases.arc.net/release/Arc-1.136.0-75750.zip",
+    "version": "1.137.0,76310",
+    "url": "https://releases.arc.net/release/Arc-1.137.0-76310.zip",
     "source_root": "Arc.app",
-    "sha256": "c1687816365481754b9500238d818777f5f68099fd6b0e711d7ce3cc5d9d6ebf"
+    "sha256": "264dd9f518369299eeb695d3f09c29dc1c726a0922c46ab347d2f30fe958fb72"
   },
   {
     "name": "battery",
