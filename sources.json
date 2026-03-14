@@ -43,10 +43,10 @@
   },
   {
     "name": "arc",
-    "version": "1.138.1,77005",
-    "url": "https://releases.arc.net/release/Arc-1.138.1-77005.zip",
+    "version": "1.138.2,77089",
+    "url": "https://releases.arc.net/release/Arc-1.138.2-77089.zip",
     "source_root": "Arc.app",
-    "sha256": "605bd02954e606b9c10c08134ec17ba507fb448334f90c5abf149e1bfacaf4ff"
+    "sha256": "f71a7fefa1662fd7e12bee9d6c11305a2f989b63cc4faabeda86f77bb7459e79"
   },
   {
     "name": "battery",
