@@ -22,17 +22,17 @@
   },
   {
     "name": "craft",
-    "version": "3.3.10",
+    "version": "3.3.11",
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
     "source_root": "Craft.app",
-    "sha256": "d5a12c8e2448c9afbef5e75721a2f152b37ab558dff2d594a1492cd3d8434458"
+    "sha256": "fbb1e4f02432d53ad317cf01a01d845d49af2144534fdcf0550d65777cd574f5"
   },
   {
     "name": "google-chrome",
-    "version": "146.0.7680.80",
+    "version": "146.0.7680.154",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "7e508efcc83f7a2eb2dd9cf6184aacc4b2ea8cafd268b60e434e2ece5f011098"
+    "sha256": "a97f5134315909c862c10e3a3f4651c365de15be868520882b30170858ac244c"
   },
   {
     "name": "blender",
@@ -43,10 +43,10 @@
   },
   {
     "name": "arc",
-    "version": "1.138.3,77277",
-    "url": "https://releases.arc.net/release/Arc-1.138.3-77277.zip",
+    "version": "1.139.0,77482",
+    "url": "https://releases.arc.net/release/Arc-1.139.0-77482.zip",
     "source_root": "Arc.app",
-    "sha256": "a1d99bc24ec4508a333871849021f4966439440d37a46fe6cdca633e3040b136"
+    "sha256": "5c3bc5f288c383b365f307112577ba8b05efc21c42ac0f0d2e4b5efb1985b437"
   },
   {
     "name": "battery",
