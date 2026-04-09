@@ -43,10 +43,10 @@
   },
   {
     "name": "google-chrome",
-    "version": "146.0.7680.178",
+    "version": "147.0.7727.56",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "535289e8b58f584ae2cceab85c7a1104c9e8b6f5e61ae141ff04a6737d691975"
+    "sha256": "4d2f05775102ac1c605a1c46618bd1d98e7559453be0f75e2a1184ed71c58fdd"
   },
   {
     "name": "craft",
