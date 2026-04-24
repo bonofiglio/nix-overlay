@@ -15,10 +15,10 @@
   },
   {
     "name": "arc",
-    "version": "1.143.2,79250",
-    "url": "https://releases.arc.net/release/Arc-1.143.2-79250.zip",
+    "version": "1.144.0,79514",
+    "url": "https://releases.arc.net/release/Arc-1.144.0-79514.zip",
     "source_root": "Arc.app",
-    "sha256": "d06d70a050f40651b761aa733f2c7096eaa396d57e5879f3bc20bbe8cdf90882"
+    "sha256": "292c0a918779160cbda3f5b32457d8dd24cce6e547b3540190ee7e28abf1be20"
   },
   {
     "name": "height",
@@ -50,10 +50,10 @@
   },
   {
     "name": "craft",
-    "version": "3.4.0",
+    "version": "3.4.1",
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
     "source_root": "Craft.app",
-    "sha256": "609f90ea29f02673f1a4550863cc0201a84dbf6427979c45f08992bb17a50f37"
+    "sha256": "af374cc7d88e2330f512a874fef1ea5ce007c1ec9fdd9a356545cd94e5c6c5c5"
   },
   {
     "name": "battery",
@@ -64,9 +64,9 @@
   },
   {
     "name": "google-chrome",
-    "version": "147.0.7727.102",
+    "version": "147.0.7727.117",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "c2deb20a38082e16c4851f1bb707ad5fa107d6a90d3735e95ced16a01b2f1a48"
+    "sha256": "007ca052348537992e884e1eda4dcebb78736b6f04366440901471a83c573ba6"
   }
 ]
