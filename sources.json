@@ -43,10 +43,10 @@
   },
   {
     "name": "firefox",
-    "version": "150.0.3",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/150.0.3/mac/en-US/Firefox%20150.0.3.dmg",
+    "version": "151.0",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/151.0/mac/en-US/Firefox%20151.0.dmg",
     "source_root": "Firefox.app",
-    "sha256": "5f8571d35b883c9c210ad4249f25c6a46e7861291a440f65d5249587dd1b9051"
+    "sha256": "5a56ebd8f0f8cec94a86e04c6793e1d1502b40206f5d4c86fff5b7a270e84f6b"
   },
   {
     "name": "arc",
@@ -57,10 +57,10 @@
   },
   {
     "name": "blender",
-    "version": "5.1.1",
-    "url": "https://download.blender.org/release/Blender5.1/blender-5.1.1-macos-arm64.dmg",
+    "version": "5.1.2",
+    "url": "https://download.blender.org/release/Blender5.1/blender-5.1.2-macos-arm64.dmg",
     "source_root": "Blender.app",
-    "sha256": "ff6219b3aaab4d9adf548b9a32b3b31764fe740b6c741d16660c5c0f4ffe9841"
+    "sha256": "f104ffee2ba6aee32328e5c203b7e4608d8a1745f7bbcf2766f3b9777e8fbe17"
   },
   {
     "name": "height",
