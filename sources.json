@@ -1,31 +1,10 @@
 [
   {
-    "name": "height",
-    "version": "0.28.2",
-    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.28.2-universal.dmg",
-    "source_root": "Height.app",
-    "sha256": "d1bc02ef43598842d0a96533127ce0f2d38a56397e43ab1df31f2c02662ef17d"
-  },
-  {
-    "name": "vlc",
-    "version": "3.0.23",
-    "url": "https://get.videolan.org/vlc/3.0.23/macosx/vlc-3.0.23-arm64.dmg",
-    "source_root": "VLC.app",
-    "sha256": "fc6fac08d87f538517d44aca0c5e7a244b67c8c4cb589bf478363a7315fd5e0d"
-  },
-  {
-    "name": "craft",
-    "version": "3.4.4",
-    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
-    "source_root": "Craft.app",
-    "sha256": "46f7ab83b99cf6f1eb2132cf958dded4be7e5e5c10ca843578088b5fe5c1a3e3"
-  },
-  {
-    "name": "firefox",
-    "version": "151.0.4",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/151.0.4/mac/en-US/Firefox%20151.0.4.dmg",
-    "source_root": "Firefox.app",
-    "sha256": "bc2e72f6abf31aa854b30a3e2841d3f2b8b8e153eaa0a5c3ab285728b7f9b160"
+    "name": "openemu",
+    "version": "2.4.1",
+    "url": "https://github.com/OpenEmu/OpenEmu/releases/download/v2.4.1/OpenEmu_2.4.1.zip",
+    "source_root": "OpenEmu.app",
+    "sha256": "521ca1305c012d38f6f907f50399fefbf4e45a9bb8d9d4063157ffca78b217d4"
   },
   {
     "name": "google-chrome",
@@ -35,6 +14,34 @@
     "sha256": "eb6853e6e9a7c3c2342fe97bd68868ccbc19812ad4c4bfc4929df5eb2b0a95ba"
   },
   {
+    "name": "blender",
+    "version": "5.1.2",
+    "url": "https://download.blender.org/release/Blender5.1/blender-5.1.2-macos-arm64.dmg",
+    "source_root": "Blender.app",
+    "sha256": "f104ffee2ba6aee32328e5c203b7e4608d8a1745f7bbcf2766f3b9777e8fbe17"
+  },
+  {
+    "name": "firefox",
+    "version": "151.0.4",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/151.0.4/mac/en-US/Firefox%20151.0.4.dmg",
+    "source_root": "Firefox.app",
+    "sha256": "bc2e72f6abf31aa854b30a3e2841d3f2b8b8e153eaa0a5c3ab285728b7f9b160"
+  },
+  {
+    "name": "craft",
+    "version": "3.4.4",
+    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
+    "source_root": "Craft.app",
+    "sha256": "46f7ab83b99cf6f1eb2132cf958dded4be7e5e5c10ca843578088b5fe5c1a3e3"
+  },
+  {
+    "name": "vlc",
+    "version": "3.0.23",
+    "url": "https://get.videolan.org/vlc/3.0.23/macosx/vlc-3.0.23-arm64.dmg",
+    "source_root": "VLC.app",
+    "sha256": "fc6fac08d87f538517d44aca0c5e7a244b67c8c4cb589bf478363a7315fd5e0d"
+  },
+  {
     "name": "ungoogled-chromium",
     "version": "",
     "url": "",
@@ -42,11 +49,11 @@
     "sha256": ""
   },
   {
-    "name": "battery",
-    "version": "1.4.0",
-    "url": "https://github.com/actuallymentor/battery/releases/download/v1.4.0/battery-1.4.0-mac-arm64.zip",
-    "source_root": "battery.app",
-    "sha256": "4510a3c3fc772f57a1a7fa595604002458120b55b83364edb98b762d4e19ab14"
+    "name": "height",
+    "version": "0.28.2",
+    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.28.2-universal.dmg",
+    "source_root": "Height.app",
+    "sha256": "d1bc02ef43598842d0a96533127ce0f2d38a56397e43ab1df31f2c02662ef17d"
   },
   {
     "name": "arc",
@@ -56,17 +63,10 @@
     "sha256": "b387d128c90adf439054d5393eae5c2e28ade1c336c1e7f25624c69626d0a739"
   },
   {
-    "name": "blender",
-    "version": "5.1.2",
-    "url": "https://download.blender.org/release/Blender5.1/blender-5.1.2-macos-arm64.dmg",
-    "source_root": "Blender.app",
-    "sha256": "f104ffee2ba6aee32328e5c203b7e4608d8a1745f7bbcf2766f3b9777e8fbe17"
-  },
-  {
-    "name": "openemu",
-    "version": "2.4.1",
-    "url": "https://github.com/OpenEmu/OpenEmu/releases/download/v2.4.1/OpenEmu_2.4.1.zip",
-    "source_root": "OpenEmu.app",
-    "sha256": "521ca1305c012d38f6f907f50399fefbf4e45a9bb8d9d4063157ffca78b217d4"
+    "name": "battery",
+    "version": "1.4.0",
+    "url": "https://github.com/actuallymentor/battery/releases/download/v1.4.0/battery-1.4.0-mac-arm64.zip",
+    "source_root": "battery.app",
+    "sha256": "4510a3c3fc772f57a1a7fa595604002458120b55b83364edb98b762d4e19ab14"
   }
 ]
