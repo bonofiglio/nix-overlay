@@ -22,10 +22,10 @@
   },
   {
     "name": "firefox",
-    "version": "152.0.2",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/152.0.2/mac/en-US/Firefox%20152.0.2.dmg",
+    "version": "152.0.3",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/152.0.3/mac/en-US/Firefox%20152.0.3.dmg",
     "source_root": "Firefox.app",
-    "sha256": "36820598ede2790d59fc18dae96d0b6f7982106f125cdf5e1799ee75e1fb5278"
+    "sha256": "5341a832935516be4f164d15021fb5a872668d6ebeddcdf35ae09ca599e717f0"
   },
   {
     "name": "craft",
@@ -57,10 +57,10 @@
   },
   {
     "name": "arc",
-    "version": "1.152.0,82313",
-    "url": "https://releases.arc.net/release/Arc-1.152.0-82313.zip",
+    "version": "1.153.0,82581",
+    "url": "https://releases.arc.net/release/Arc-1.153.0-82581.zip",
     "source_root": "Arc.app",
-    "sha256": "923c610615acca13969161cd33ec3927e05f57e51466d466a357b754b4283847"
+    "sha256": "186ebad1925a4869530bf6de30a44f3f5fe2834c1c22ea0e6f7a946826c3993b"
   },
   {
     "name": "battery",
