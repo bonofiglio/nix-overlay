@@ -8,7 +8,7 @@
   },
   {
     "name": "google-chrome",
-    "version": "149.0.7827.197",
+    "version": "149.0.7827.201",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
     "sha256": "eb6853e6e9a7c3c2342fe97bd68868ccbc19812ad4c4bfc4929df5eb2b0a95ba"
@@ -57,10 +57,10 @@
   },
   {
     "name": "arc",
-    "version": "1.153.0,82581",
-    "url": "https://releases.arc.net/release/Arc-1.153.0-82581.zip",
+    "version": "1.153.1,82775",
+    "url": "https://releases.arc.net/release/Arc-1.153.1-82775.zip",
     "source_root": "Arc.app",
-    "sha256": "186ebad1925a4869530bf6de30a44f3f5fe2834c1c22ea0e6f7a946826c3993b"
+    "sha256": "1510785c7a4b45beef59b3ee39c3e0875c6d1c1279288de2ffd993f99902eb5a"
   },
   {
     "name": "battery",
