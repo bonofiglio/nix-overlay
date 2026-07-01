@@ -22,10 +22,10 @@
   },
   {
     "name": "firefox",
-    "version": "152.0.3",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/152.0.3/mac/en-US/Firefox%20152.0.3.dmg",
+    "version": "152.0.4",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/152.0.4/mac/en-US/Firefox%20152.0.4.dmg",
     "source_root": "Firefox.app",
-    "sha256": "5341a832935516be4f164d15021fb5a872668d6ebeddcdf35ae09ca599e717f0"
+    "sha256": "b7391215608c8f0171c29200bb7add9328d186a60c10386b67acfa5f757a42b8"
   },
   {
     "name": "craft",
