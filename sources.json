@@ -15,17 +15,17 @@
   },
   {
     "name": "blender",
-    "version": "5.1.2",
-    "url": "https://download.blender.org/release/Blender5.1/blender-5.1.2-macos-arm64.dmg",
+    "version": "5.2.0",
+    "url": "https://download.blender.org/release/Blender5.2/blender-5.2.0-macos-arm64.dmg",
     "source_root": "Blender.app",
-    "sha256": "f104ffee2ba6aee32328e5c203b7e4608d8a1745f7bbcf2766f3b9777e8fbe17"
+    "sha256": "ed4d8390166dec5ea0a2813a03db6221f206ce016442be7f59f41d760972568a"
   },
   {
     "name": "firefox",
-    "version": "152.0.5",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/152.0.5/mac/en-US/Firefox%20152.0.5.dmg",
+    "version": "152.0.6",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/152.0.6/mac/en-US/Firefox%20152.0.6.dmg",
     "source_root": "Firefox.app",
-    "sha256": "69295aed9b9de3a1d5b625b423bff724ab44079a4ed37d21072e0558fe969796"
+    "sha256": "747002d592063e0b106de0c500b34fe6d84438b3b866621521c8e7be9ea7816c"
   },
   {
     "name": "craft",
