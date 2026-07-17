@@ -1,40 +1,5 @@
 [
   {
-    "name": "openemu",
-    "version": "2.4.1",
-    "url": "https://github.com/OpenEmu/OpenEmu/releases/download/v2.4.1/OpenEmu_2.4.1.zip",
-    "source_root": "OpenEmu.app",
-    "sha256": "521ca1305c012d38f6f907f50399fefbf4e45a9bb8d9d4063157ffca78b217d4"
-  },
-  {
-    "name": "google-chrome",
-    "version": "150.0.7871.125",
-    "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
-    "source_root": "Google Chrome.app",
-    "sha256": "eb6853e6e9a7c3c2342fe97bd68868ccbc19812ad4c4bfc4929df5eb2b0a95ba"
-  },
-  {
-    "name": "blender",
-    "version": "5.2.0",
-    "url": "https://download.blender.org/release/Blender5.2/blender-5.2.0-macos-arm64.dmg",
-    "source_root": "Blender.app",
-    "sha256": "ed4d8390166dec5ea0a2813a03db6221f206ce016442be7f59f41d760972568a"
-  },
-  {
-    "name": "firefox",
-    "version": "152.0.6",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/152.0.6/mac/en-US/Firefox%20152.0.6.dmg",
-    "source_root": "Firefox.app",
-    "sha256": "747002d592063e0b106de0c500b34fe6d84438b3b866621521c8e7be9ea7816c"
-  },
-  {
-    "name": "craft",
-    "version": "3.5.1",
-    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
-    "source_root": "Craft.app",
-    "sha256": "ba6bfcbaea8e7564063c60bc5ffa1cad208cee3883c7677719b9f7e339cd4165"
-  },
-  {
     "name": "vlc",
     "version": "3.0.23",
     "url": "https://get.videolan.org/vlc/3.0.23/macosx/vlc-3.0.23-arm64.dmg",
@@ -49,18 +14,11 @@
     "sha256": ""
   },
   {
-    "name": "height",
-    "version": "0.28.2",
-    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.28.2-universal.dmg",
-    "source_root": "Height.app",
-    "sha256": "d1bc02ef43598842d0a96533127ce0f2d38a56397e43ab1df31f2c02662ef17d"
-  },
-  {
-    "name": "arc",
-    "version": "1.155.1,83244",
-    "url": "https://releases.arc.net/release/Arc-1.155.1-83244.zip",
-    "source_root": "Arc.app",
-    "sha256": "636aa2223c3cae74e61c558874f9c811835e3b4145d65663b68b12ab066613be"
+    "name": "craft",
+    "version": "3.5.1",
+    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
+    "source_root": "Craft.app",
+    "sha256": "ba6bfcbaea8e7564063c60bc5ffa1cad208cee3883c7677719b9f7e339cd4165"
   },
   {
     "name": "battery",
@@ -68,5 +26,47 @@
     "url": "https://github.com/actuallymentor/battery/releases/download/v1.4.0/battery-1.4.0-mac-arm64.zip",
     "source_root": "battery.app",
     "sha256": "4510a3c3fc772f57a1a7fa595604002458120b55b83364edb98b762d4e19ab14"
+  },
+  {
+    "name": "google-chrome",
+    "version": "150.0.7871.129",
+    "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
+    "source_root": "Google Chrome.app",
+    "sha256": "eb6853e6e9a7c3c2342fe97bd68868ccbc19812ad4c4bfc4929df5eb2b0a95ba"
+  },
+  {
+    "name": "arc",
+    "version": "1.156.0,83514",
+    "url": "https://releases.arc.net/release/Arc-1.156.0-83514.zip",
+    "source_root": "Arc.app",
+    "sha256": "da4d222bb33271525bf3ab2e09ace061eb1daa35d92a9840d8ee42da38b38e9a"
+  },
+  {
+    "name": "height",
+    "version": "0.28.2",
+    "url": "https://storage.googleapis.com/height-statics/_app/Height-0.28.2-universal.dmg",
+    "source_root": "Height.app",
+    "sha256": "d1bc02ef43598842d0a96533127ce0f2d38a56397e43ab1df31f2c02662ef17d"
+  },
+  {
+    "name": "openemu",
+    "version": "2.4.1",
+    "url": "https://github.com/OpenEmu/OpenEmu/releases/download/v2.4.1/OpenEmu_2.4.1.zip",
+    "source_root": "OpenEmu.app",
+    "sha256": "521ca1305c012d38f6f907f50399fefbf4e45a9bb8d9d4063157ffca78b217d4"
+  },
+  {
+    "name": "blender",
+    "version": "5.2.0",
+    "url": "https://download.blender.org/release/Blender5.2/blender-5.2.0-macos-arm64.dmg",
+    "source_root": "Blender.app",
+    "sha256": "ed4d8390166dec5ea0a2813a03db6221f206ce016442be7f59f41d760972568a"
+  },
+  {
+    "name": "firefox",
+    "version": "152.0.6",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/152.0.6/mac/en-US/Firefox%20152.0.6.dmg",
+    "source_root": "Firefox.app",
+    "sha256": "747002d592063e0b106de0c500b34fe6d84438b3b866621521c8e7be9ea7816c"
   }
 ]
