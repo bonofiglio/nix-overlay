@@ -36,10 +36,10 @@
   },
   {
     "name": "firefox",
-    "version": "153.0.3",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.0.3/mac/en-US/Firefox%20153.0.3.dmg",
+    "version": "153.0.4",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.0.4/mac/en-US/Firefox%20153.0.4.dmg",
     "source_root": "Firefox.app",
-    "sha256": "a0523b6f2f10f13c6071d8b53ed7678193d693febd8a5d4fd8d7417b3c661045"
+    "sha256": "792b313c7e2d2b1327f76f455315dd9d68c59c96935aa5e8c67ae42fe6aeea97"
   },
   {
     "name": "google-chrome",
