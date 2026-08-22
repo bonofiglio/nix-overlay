@@ -29,17 +29,17 @@
   },
   {
     "name": "google-chrome",
-    "version": "151.0.7922.170",
+    "version": "151.0.7922.174",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
     "sha256": "eb6853e6e9a7c3c2342fe97bd68868ccbc19812ad4c4bfc4929df5eb2b0a95ba"
   },
   {
     "name": "arc",
-    "version": "1.161.0,85574",
-    "url": "https://releases.arc.net/release/Arc-1.161.0-85574.zip",
+    "version": "1.161.1,85803",
+    "url": "https://releases.arc.net/release/Arc-1.161.1-85803.zip",
     "source_root": "Arc.app",
-    "sha256": "e5580dfb9f640bf90a5574dbca734691a029cbdd73a3dd5004fd37fa1094d8c8"
+    "sha256": "06e241de8f8aef42b358a113de2e77199a66e46f7092f83c4df0fb68217f6969"
   },
   {
     "name": "firefox",
