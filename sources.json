@@ -15,10 +15,10 @@
   },
   {
     "name": "blender",
-    "version": "5.2.0",
-    "url": "https://download.blender.org/release/Blender5.2/blender-5.2.0-macos-arm64.dmg",
+    "version": "5.2.1",
+    "url": "https://download.blender.org/release/Blender5.2/blender-5.2.1-macos-arm64.dmg",
     "source_root": "Blender.app",
-    "sha256": "ed4d8390166dec5ea0a2813a03db6221f206ce016442be7f59f41d760972568a"
+    "sha256": "6409e21de80994db5f4c4a34486b6fd43cea21085b912f7491c53e923acb65a3"
   },
   {
     "name": "craft",
@@ -29,7 +29,7 @@
   },
   {
     "name": "google-chrome",
-    "version": "151.0.7922.174",
+    "version": "152.0.7977.65",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
     "sha256": "eb6853e6e9a7c3c2342fe97bd68868ccbc19812ad4c4bfc4929df5eb2b0a95ba"
@@ -43,10 +43,10 @@
   },
   {
     "name": "firefox",
-    "version": "154.0",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/154.0/mac/en-US/Firefox%20154.0.dmg",
+    "version": "154.0.1",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/154.0.1/mac/en-US/Firefox%20154.0.1.dmg",
     "source_root": "Firefox.app",
-    "sha256": "b0295d3b77ec632a60282cf2b9770e1dada085879d00e43d8d23fddf5015e06a"
+    "sha256": "01d95a6652018bb3d1e0bfad13ed6775864a1f3390d224e713f7d6f8b98fd679"
   },
   {
     "name": "height",
