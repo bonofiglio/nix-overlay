@@ -22,10 +22,10 @@
   },
   {
     "name": "craft",
-    "version": "3.5.5",
+    "version": "3.5.7",
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
     "source_root": "Craft.app",
-    "sha256": "7538ad9b95f472d9f2e1ef95660d3ff5f66bc8fd97977ee6d3ce2bbb870e3762"
+    "sha256": "59498824491feedaf48855a26f8356a77a65b7d69bb1c8aaf3d1ea36d3498e73"
   },
   {
     "name": "google-chrome",
