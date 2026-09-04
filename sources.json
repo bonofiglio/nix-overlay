@@ -1,17 +1,17 @@
 [
   {
     "name": "google-chrome",
-    "version": "152.0.7977.76",
+    "version": "152.0.7977.83",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
     "sha256": "eb6853e6e9a7c3c2342fe97bd68868ccbc19812ad4c4bfc4929df5eb2b0a95ba"
   },
   {
     "name": "arc",
-    "version": "1.162.0,86046",
-    "url": "https://releases.arc.net/release/Arc-1.162.0-86046.zip",
+    "version": "1.163.0,86417",
+    "url": "https://releases.arc.net/release/Arc-1.163.0-86417.zip",
     "source_root": "Arc.app",
-    "sha256": "d8f4299200c16bde5c0f413976fb92397613706eb6fff855d02dcd9e9c3f1aa1"
+    "sha256": "f0e9ca1e2c9e78a7df6f27e19f971620ab9d8e8d0b1d1c2b94e7210fb11796cd"
   },
   {
     "name": "craft",
