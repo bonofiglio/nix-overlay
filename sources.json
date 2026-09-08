@@ -15,10 +15,10 @@
   },
   {
     "name": "craft",
-    "version": "3.6.0",
+    "version": "3.6.2",
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
     "source_root": "Craft.app",
-    "sha256": "b15e7293f076299c6df64d15cce84b909b3f93ae82de4ee88722ef965818beda"
+    "sha256": "126b04fb8a33f24c2959d594a2b24ddc269ee560abf8f7621cb5e0eef55db176"
   },
   {
     "name": "firefox",
