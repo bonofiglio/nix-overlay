@@ -1,24 +1,24 @@
 [
   {
     "name": "google-chrome",
-    "version": "153.0.8010.48",
+    "version": "153.0.8010.53",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
     "sha256": "eb6853e6e9a7c3c2342fe97bd68868ccbc19812ad4c4bfc4929df5eb2b0a95ba"
   },
   {
     "name": "arc",
-    "version": "1.164.0,86805",
-    "url": "https://releases.arc.net/release/Arc-1.164.0-86805.zip",
+    "version": "1.165.0,87194",
+    "url": "https://releases.arc.net/release/Arc-1.165.0-87194.zip",
     "source_root": "Arc.app",
-    "sha256": "13a93c1bda7efb7c31f8c7ed4275bb0d37e8fb1cae999c348e4b438e8ac11187"
+    "sha256": "5a1ba4bc19b19cdc3d2dc8699196d8b11de279e48e858ede2188ebc71de7028d"
   },
   {
     "name": "craft",
-    "version": "3.6.5",
+    "version": "3.6.7",
     "url": "https://res.craft.do/native/sparkle/Craft.dmg",
     "source_root": "Craft.app",
-    "sha256": "1cde5eaf1c02eb9b14afbc3626a8584770b19014e0a301b5da41497342cf6fa9"
+    "sha256": "2fe657623f026f788c87d68c7aa79b7f64c6980f092aabf696a9dca2dbfab9f9"
   },
   {
     "name": "firefox",
