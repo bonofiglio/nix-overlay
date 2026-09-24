@@ -1,40 +1,5 @@
 [
   {
-    "name": "google-chrome",
-    "version": "154.0.8037.58",
-    "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
-    "source_root": "Google Chrome.app",
-    "sha256": "eb6853e6e9a7c3c2342fe97bd68868ccbc19812ad4c4bfc4929df5eb2b0a95ba"
-  },
-  {
-    "name": "arc",
-    "version": "1.165.1,87405",
-    "url": "https://releases.arc.net/release/Arc-1.165.1-87405.zip",
-    "source_root": "Arc.app",
-    "sha256": "1db4fe1f24324bf11634ae1b42b8666fd1fdcdade693e98415b00f0c9102dfe4"
-  },
-  {
-    "name": "craft",
-    "version": "3.6.8",
-    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
-    "source_root": "Craft.app",
-    "sha256": "31605ecffd98fa846efe6d2383fc893c8b51159cd741be343d2b7ef61fe0180e"
-  },
-  {
-    "name": "firefox",
-    "version": "156.0.1",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/156.0.1/mac/en-US/Firefox%20156.0.1.dmg",
-    "source_root": "Firefox.app",
-    "sha256": "7eda94829670b892524eddfee575d16fe74b9329d3d0795367cce035207d34a4"
-  },
-  {
-    "name": "battery",
-    "version": "1.4.0",
-    "url": "https://github.com/actuallymentor/battery/releases/download/v1.4.0/battery-1.4.0-mac-arm64.zip",
-    "source_root": "battery.app",
-    "sha256": "4510a3c3fc772f57a1a7fa595604002458120b55b83364edb98b762d4e19ab14"
-  },
-  {
     "name": "ungoogled-chromium",
     "version": "",
     "url": "",
@@ -42,11 +7,11 @@
     "sha256": ""
   },
   {
-    "name": "openemu",
-    "version": "2.4.1",
-    "url": "https://github.com/OpenEmu/OpenEmu/releases/download/v2.4.1/OpenEmu_2.4.1.zip",
-    "source_root": "OpenEmu.app",
-    "sha256": "521ca1305c012d38f6f907f50399fefbf4e45a9bb8d9d4063157ffca78b217d4"
+    "name": "firefox",
+    "version": "156.0.1",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/156.0.1/mac/en-US/Firefox%20156.0.1.dmg",
+    "source_root": "Firefox.app",
+    "sha256": "7eda94829670b892524eddfee575d16fe74b9329d3d0795367cce035207d34a4"
   },
   {
     "name": "height",
@@ -61,6 +26,41 @@
     "url": "https://get.videolan.org/vlc/3.0.24/macosx/vlc-3.0.24-arm64.dmg",
     "source_root": "VLC.app",
     "sha256": "64a89d93cdd30b0e97131743e246373db82d6826ea882d265d46d74b136da2b7"
+  },
+  {
+    "name": "craft",
+    "version": "3.6.8",
+    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
+    "source_root": "Craft.app",
+    "sha256": "31605ecffd98fa846efe6d2383fc893c8b51159cd741be343d2b7ef61fe0180e"
+  },
+  {
+    "name": "arc",
+    "version": "1.165.1,87405",
+    "url": "https://releases.arc.net/release/Arc-1.165.1-87405.zip",
+    "source_root": "Arc.app",
+    "sha256": "1db4fe1f24324bf11634ae1b42b8666fd1fdcdade693e98415b00f0c9102dfe4"
+  },
+  {
+    "name": "google-chrome",
+    "version": "154.0.8037.58",
+    "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
+    "source_root": "Google Chrome.app",
+    "sha256": "eb6853e6e9a7c3c2342fe97bd68868ccbc19812ad4c4bfc4929df5eb2b0a95ba"
+  },
+  {
+    "name": "openemu",
+    "version": "2.4.1",
+    "url": "https://github.com/OpenEmu/OpenEmu/releases/download/v2.4.1/OpenEmu_2.4.1.zip",
+    "source_root": "OpenEmu.app",
+    "sha256": "521ca1305c012d38f6f907f50399fefbf4e45a9bb8d9d4063157ffca78b217d4"
+  },
+  {
+    "name": "battery",
+    "version": "1.4.0",
+    "url": "https://github.com/actuallymentor/battery/releases/download/v1.4.0/battery-1.4.0-mac-arm64.zip",
+    "source_root": "battery.app",
+    "sha256": "4510a3c3fc772f57a1a7fa595604002458120b55b83364edb98b762d4e19ab14"
   },
   {
     "name": "blender",
