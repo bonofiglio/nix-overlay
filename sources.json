@@ -8,10 +8,10 @@
   },
   {
     "name": "firefox",
-    "version": "157.0",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/157.0/mac/en-US/Firefox%20157.0.dmg",
+    "version": "157.0.1",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/157.0.1/mac/en-US/Firefox%20157.0.1.dmg",
     "source_root": "Firefox.app",
-    "sha256": "df6d8c79b6126bcf24cb70ebab9371916a662028e2d706e462d432e78fdf396c"
+    "sha256": "40a0a649120635460256dae9ad63e40377f77326cbc9c449a5d0a1d7f5dd7982"
   },
   {
     "name": "height",
@@ -43,7 +43,7 @@
   },
   {
     "name": "google-chrome",
-    "version": "154.0.8037.98",
+    "version": "155.0.8059.40",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
     "sha256": "eb6853e6e9a7c3c2342fe97bd68868ccbc19812ad4c4bfc4929df5eb2b0a95ba"
