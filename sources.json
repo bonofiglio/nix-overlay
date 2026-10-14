@@ -8,10 +8,10 @@
   },
   {
     "name": "firefox",
-    "version": "157.0.1",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/157.0.1/mac/en-US/Firefox%20157.0.1.dmg",
+    "version": "158.0",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/158.0/mac/en-US/Firefox%20158.0.dmg",
     "source_root": "Firefox.app",
-    "sha256": "40a0a649120635460256dae9ad63e40377f77326cbc9c449a5d0a1d7f5dd7982"
+    "sha256": "dfe8508ee8880cec1578253eb02b9154b5971a55e832d97396f463cd07b5ef67"
   },
   {
     "name": "height",
@@ -43,10 +43,10 @@
   },
   {
     "name": "google-chrome",
-    "version": "155.0.8059.40",
+    "version": "155.0.8059.80",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "eb6853e6e9a7c3c2342fe97bd68868ccbc19812ad4c4bfc4929df5eb2b0a95ba"
+    "sha256": "3262c73156ebc81efe44b68aab35cef8363d34e27e18750a63fc18b5de52f738"
   },
   {
     "name": "openemu",
