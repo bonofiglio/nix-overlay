@@ -1,10 +1,17 @@
 [
   {
-    "name": "google-chrome",
-    "version": "157.0.8103.39",
-    "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
-    "source_root": "Google Chrome.app",
-    "sha256": "26932c4d3f16f6a57e96e9a45a1c4cb9caa806616eaffe7d7366647542dc0dae"
+    "name": "vlc",
+    "version": "3.0.24",
+    "url": "https://get.videolan.org/vlc/3.0.24/macosx/vlc-3.0.24-arm64.dmg",
+    "source_root": "VLC.app",
+    "sha256": "64a89d93cdd30b0e97131743e246373db82d6826ea882d265d46d74b136da2b7"
+  },
+  {
+    "name": "height",
+    "version": "",
+    "url": "",
+    "source_root": "",
+    "sha256": ""
   },
   {
     "name": "ungoogled-chromium",
@@ -14,11 +21,18 @@
     "sha256": ""
   },
   {
+    "name": "google-chrome",
+    "version": "157.0.8103.39",
+    "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
+    "source_root": "Google Chrome.app",
+    "sha256": "26932c4d3f16f6a57e96e9a45a1c4cb9caa806616eaffe7d7366647542dc0dae"
+  },
+  {
     "name": "arc",
-    "version": "1.171.0,89666",
-    "url": "https://releases.arc.net/release/Arc-1.171.0-89666.zip",
+    "version": "1.172.1,90370",
+    "url": "https://releases.arc.net/release/Arc-1.172.1-90370.zip",
     "source_root": "Arc.app",
-    "sha256": "ef718eabb207e5d42bc0975a0b170c81c94de0fa684c2c339f1f6b38463e634b"
+    "sha256": "842aea310f2db2adf7c00399a905684177fe0f640109f993357acc4592dbd07e"
   },
   {
     "name": "firefox",
@@ -35,20 +49,6 @@
     "sha256": "acc05374485a272342d4b323c15ac01953e7f697da2f1bad8af9c3bf087267a4"
   },
   {
-    "name": "height",
-    "version": "",
-    "url": "",
-    "source_root": "",
-    "sha256": ""
-  },
-  {
-    "name": "craft",
-    "version": "3.7.1",
-    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
-    "source_root": "Craft.app",
-    "sha256": "e7794a18b6556caf01a64402b092e22bb11a744413c3f5179d6a319ee1456293"
-  },
-  {
     "name": "battery",
     "version": "1.4.0",
     "url": "https://github.com/actuallymentor/battery/releases/download/v1.4.0/battery-1.4.0-mac-arm64.zip",
@@ -56,11 +56,11 @@
     "sha256": "4510a3c3fc772f57a1a7fa595604002458120b55b83364edb98b762d4e19ab14"
   },
   {
-    "name": "vlc",
-    "version": "3.0.24",
-    "url": "https://get.videolan.org/vlc/3.0.24/macosx/vlc-3.0.24-arm64.dmg",
-    "source_root": "VLC.app",
-    "sha256": "64a89d93cdd30b0e97131743e246373db82d6826ea882d265d46d74b136da2b7"
+    "name": "craft",
+    "version": "3.7.1",
+    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
+    "source_root": "Craft.app",
+    "sha256": "e7794a18b6556caf01a64402b092e22bb11a744413c3f5179d6a319ee1456293"
   },
   {
     "name": "openemu",
