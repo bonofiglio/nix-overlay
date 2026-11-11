@@ -22,31 +22,31 @@
   },
   {
     "name": "google-chrome",
-    "version": "157.0.8103.39",
+    "version": "157.0.8103.51",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "26932c4d3f16f6a57e96e9a45a1c4cb9caa806616eaffe7d7366647542dc0dae"
+    "sha256": "e72772e792b34c7f4de0f8fefc7c92bb59f1057abdf7e5db3db199cce1daad3f"
   },
   {
     "name": "arc",
-    "version": "1.172.1,90370",
-    "url": "https://releases.arc.net/release/Arc-1.172.1-90370.zip",
+    "version": "1.172.2,90755",
+    "url": "https://releases.arc.net/release/Arc-1.172.2-90755.zip",
     "source_root": "Arc.app",
-    "sha256": "842aea310f2db2adf7c00399a905684177fe0f640109f993357acc4592dbd07e"
+    "sha256": "c334b629c086af1968d0ae27a3b5a9c58d87b27f27526cc38f705115724bba15"
   },
   {
     "name": "firefox",
-    "version": "159.0.1",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/159.0.1/mac/en-US/Firefox%20159.0.1.dmg",
+    "version": "160.0",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/160.0/mac/en-US/Firefox%20160.0.dmg",
     "source_root": "Firefox.app",
-    "sha256": "0c214da4439c1eb4cea28a3c141ff112d511aa32c67f9d12e91116569c8d8dda"
+    "sha256": "b270ccc60eb899bd0277bd078d7bd8690f5c4fc3e44b4fa9ee78ed2a3e89f0ca"
   },
   {
     "name": "blender",
-    "version": "5.2.3",
-    "url": "https://download.blender.org/release/Blender5.2/blender-5.2.3-macos-arm64.dmg",
+    "version": "5.3.0",
+    "url": "https://download.blender.org/release/Blender5.3/blender-5.3.0-macos-arm64.dmg",
     "source_root": "Blender.app",
-    "sha256": "acc05374485a272342d4b323c15ac01953e7f697da2f1bad8af9c3bf087267a4"
+    "sha256": "2d802b54766741e612cead50b03ebbc8eb64dadc71eda932573d256b8a784720"
   },
   {
     "name": "battery",
