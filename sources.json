@@ -22,10 +22,10 @@
   },
   {
     "name": "google-chrome",
-    "version": "157.0.8103.79",
+    "version": "158.0.8127.37",
     "url": "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
     "source_root": "Google Chrome.app",
-    "sha256": "890cbc357d91cc8b0de87033edee89534da385a97ec2b21e3c80b2125f45e4fd"
+    "sha256": "75b9fdb7573aab8a89f1b00319692a1f785fb4e6fd07e97916a13b00b3d34bae"
   },
   {
     "name": "arc",
@@ -36,10 +36,10 @@
   },
   {
     "name": "firefox",
-    "version": "160.0",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/160.0/mac/en-US/Firefox%20160.0.dmg",
+    "version": "160.0.1",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/160.0.1/mac/en-US/Firefox%20160.0.1.dmg",
     "source_root": "Firefox.app",
-    "sha256": "b270ccc60eb899bd0277bd078d7bd8690f5c4fc3e44b4fa9ee78ed2a3e89f0ca"
+    "sha256": "db9a522291d82cbe9a2b2922822def4db0a79d4fa3e614979039d705b13b1c25"
   },
   {
     "name": "blender",
