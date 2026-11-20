@@ -29,10 +29,10 @@
   },
   {
     "name": "arc",
-    "version": "1.173.1,90936",
-    "url": "https://releases.arc.net/release/Arc-1.173.1-90936.zip",
+    "version": "1.174.0,91305",
+    "url": "https://releases.arc.net/release/Arc-1.174.0-91305.zip",
     "source_root": "Arc.app",
-    "sha256": "18e583df548b7bf3fa051660503357f62ae4ca5a1e8103b8306b509757b56a6c"
+    "sha256": "50b6609831f0ea346a84e7bf62e8ab113d1a0abd28e6bbacfcc09c2e34286406"
   },
   {
     "name": "firefox",
