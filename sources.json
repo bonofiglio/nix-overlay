@@ -1,5 +1,40 @@
 [
   {
+    "name": "battery",
+    "version": "1.4.0",
+    "url": "https://github.com/actuallymentor/battery/releases/download/v1.4.0/battery-1.4.0-mac-arm64.zip",
+    "source_root": "battery.app",
+    "sha256": "4510a3c3fc772f57a1a7fa595604002458120b55b83364edb98b762d4e19ab14"
+  },
+  {
+    "name": "firefox",
+    "version": "160.0.1",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/160.0.1/mac/en-US/Firefox%20160.0.1.dmg",
+    "source_root": "Firefox.app",
+    "sha256": "db9a522291d82cbe9a2b2922822def4db0a79d4fa3e614979039d705b13b1c25"
+  },
+  {
+    "name": "blender",
+    "version": "5.3.0",
+    "url": "https://download.blender.org/release/Blender5.3/blender-5.3.0-macos-arm64.dmg",
+    "source_root": "Blender.app",
+    "sha256": "2d802b54766741e612cead50b03ebbc8eb64dadc71eda932573d256b8a784720"
+  },
+  {
+    "name": "craft",
+    "version": "3.7.1",
+    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
+    "source_root": "Craft.app",
+    "sha256": "e7794a18b6556caf01a64402b092e22bb11a744413c3f5179d6a319ee1456293"
+  },
+  {
+    "name": "ungoogled-chromium",
+    "version": "",
+    "url": "",
+    "source_root": "",
+    "sha256": ""
+  },
+  {
     "name": "vlc",
     "version": "3.0.24",
     "url": "https://get.videolan.org/vlc/3.0.24/macosx/vlc-3.0.24-arm64.dmg",
@@ -8,13 +43,6 @@
   },
   {
     "name": "height",
-    "version": "",
-    "url": "",
-    "source_root": "",
-    "sha256": ""
-  },
-  {
-    "name": "ungoogled-chromium",
     "version": "",
     "url": "",
     "source_root": "",
@@ -33,34 +61,6 @@
     "url": "https://releases.arc.net/release/Arc-1.174.0-91305.zip",
     "source_root": "Arc.app",
     "sha256": "50b6609831f0ea346a84e7bf62e8ab113d1a0abd28e6bbacfcc09c2e34286406"
-  },
-  {
-    "name": "firefox",
-    "version": "160.0.1",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/160.0.1/mac/en-US/Firefox%20160.0.1.dmg",
-    "source_root": "Firefox.app",
-    "sha256": "db9a522291d82cbe9a2b2922822def4db0a79d4fa3e614979039d705b13b1c25"
-  },
-  {
-    "name": "blender",
-    "version": "5.3.0",
-    "url": "https://download.blender.org/release/Blender5.3/blender-5.3.0-macos-arm64.dmg",
-    "source_root": "Blender.app",
-    "sha256": "2d802b54766741e612cead50b03ebbc8eb64dadc71eda932573d256b8a784720"
-  },
-  {
-    "name": "battery",
-    "version": "1.4.0",
-    "url": "https://github.com/actuallymentor/battery/releases/download/v1.4.0/battery-1.4.0-mac-arm64.zip",
-    "source_root": "battery.app",
-    "sha256": "4510a3c3fc772f57a1a7fa595604002458120b55b83364edb98b762d4e19ab14"
-  },
-  {
-    "name": "craft",
-    "version": "3.7.1",
-    "url": "https://res.craft.do/native/sparkle/Craft.dmg",
-    "source_root": "Craft.app",
-    "sha256": "e7794a18b6556caf01a64402b092e22bb11a744413c3f5179d6a319ee1456293"
   },
   {
     "name": "openemu",
